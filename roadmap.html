@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="color-scheme" content="light dark" />
+  <link rel="icon" href="data:," />
+  <title>Project RECEIPTS — Docs &amp; Roadmap | MUSETHEBULL</title>
+  <style>
+    :root{color-scheme:light dark;--bg:#f4f1ea;--surface:#fffdf7;--surface-2:#e9e5dc;--ink:#171717;--muted:#5f5b54;--line:#171717;--orange:#e74d00;--red:#d92312;--green:#0d7a3b;--terminal:#121212;--terminal-ink:#f4f1ea;--shadow:7px 7px 0 #171717;--max:1080px}
+    @media(prefers-color-scheme:dark){:root{--bg:#121212;--surface:#181818;--surface-2:#232323;--ink:#f4f1ea;--muted:#bcb6aa;--line:#f4f1ea;--orange:#ff5500;--red:#ff2a14;--green:#54e380;--terminal:#090909;--terminal-ink:#f4f1ea;--shadow:7px 7px 0 #ff5500}}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;min-width:0;overflow-x:hidden;background:linear-gradient(rgba(127,127,127,.065) 1px,transparent 1px),linear-gradient(90deg,rgba(127,127,127,.065) 1px,transparent 1px),var(--bg);background-size:28px 28px;color:var(--ink);font-family:"Courier New",Courier,monospace}button,a{-webkit-tap-highlight-color:transparent}a{color:inherit}.wrap{width:min(calc(100% - 32px),var(--max));margin-inline:auto}.skip{position:fixed;left:12px;top:-80px;z-index:100;background:var(--ink);color:var(--bg);padding:10px 14px}.skip:focus{top:12px}
+    .btn{min-height:48px;display:inline-flex;align-items:center;justify-content:center;gap:9px;padding:13px 17px;border:2px solid var(--line);border-radius:0;background:var(--surface);color:var(--ink);text-decoration:none;font-weight:800;cursor:pointer;box-shadow:4px 4px 0 var(--line);transition:transform .15s ease,box-shadow .15s ease}.btn:hover{transform:translate(2px,2px);box-shadow:2px 2px 0 var(--line)}.btn.primary{background:var(--orange);color:#fff;border-color:var(--orange);box-shadow:4px 4px 0 var(--line)}.btn.bracket:before{content:"["}.btn.bracket:after{content:"]"}
+    .hero{padding:56px 0 40px;border-bottom:3px solid var(--line)}.eyebrow{display:inline-block;margin:0 0 18px;color:var(--orange);font-size:.79rem;font-weight:800;letter-spacing:.08em}h1,h2,h3,p{margin-top:0}h1{margin-bottom:16px;font-family:Impact,Haettenschweiler,"Arial Narrow Bold",sans-serif;font-size:clamp(2.6rem,7vw,5.6rem);line-height:.88;letter-spacing:-.03em;text-transform:uppercase}.hero-sub{max-width:680px;margin-bottom:22px;font-size:clamp(1.05rem,3vw,1.4rem);line-height:1.5;font-weight:700}.status{width:fit-content;max-width:100%;display:flex;align-items:flex-start;gap:10px;margin:0 0 26px;padding:10px 12px;border:1px solid var(--orange);background:var(--surface);color:var(--orange);font-size:.74rem;line-height:1.45;font-weight:800}.status-dot{width:10px;height:10px;flex:0 0 auto;margin-top:2px;border-radius:50%;background:var(--orange);box-shadow:0 0 0 4px color-mix(in srgb,var(--orange) 20%,transparent);animation:blink 1.1s steps(2) infinite}@keyframes blink{50%{opacity:.2}}.actions{display:flex;flex-wrap:wrap;gap:14px}
+    section{padding:64px 0;border-bottom:3px solid var(--line)}.section-head{display:grid;gap:12px;margin-bottom:28px}.section-number{color:var(--orange);font-weight:900}h2{margin-bottom:0;font-family:Impact,Haettenschweiler,"Arial Narrow Bold",sans-serif;font-size:clamp(2rem,7vw,4rem);line-height:.92;letter-spacing:-.02em;text-transform:uppercase}.section-head p{margin-bottom:0;max-width:64ch;color:var(--muted);line-height:1.65}
+    .card{border:2px solid var(--line);background:var(--surface);box-shadow:5px 5px 0 var(--line);padding:20px 18px;margin-bottom:18px}.card h3{margin-bottom:10px;font-size:1.05rem;text-transform:uppercase;color:var(--orange)}.card p,.card li{line-height:1.65}.card p:last-child{margin-bottom:0}.card ul{margin:0 0 6px;padding-left:20px}.card li{margin-bottom:8px}.card code{background:var(--surface-2);padding:2px 6px;font-size:.85em}
+    .pill{display:inline-block;padding:4px 10px;border:2px solid currentColor;font-size:.68rem;font-weight:900;letter-spacing:.06em;text-transform:uppercase;margin-bottom:12px}.pill.next{color:var(--orange)}.pill.planned{color:var(--muted)}.pill.parked{color:var(--red)}
+    .score-table{width:100%;border-collapse:collapse;margin:6px 0 4px;font-size:.86rem}.score-table th,.score-table td{border:1px solid var(--line);padding:10px 12px;text-align:left;line-height:1.5}.score-table th{background:var(--terminal);color:var(--terminal-ink);text-transform:uppercase;font-size:.72rem;letter-spacing:.05em}.score-table tr:nth-child(even) td{background:var(--surface-2)}
+    .flywheel{display:grid;gap:0;margin-top:6px}.fly-step{display:grid;grid-template-columns:44px 1fr;gap:14px;padding:16px 0;border-bottom:2px dashed color-mix(in srgb,var(--line) 40%,transparent)}.fly-step:last-child{border-bottom:0}.fly-num{display:flex;align-items:center;justify-content:center;width:44px;height:44px;border:2px solid var(--orange);color:var(--orange);font-weight:900;font-size:1.1rem}.fly-step p{margin:0;line-height:1.6}.fly-step strong{color:var(--orange)}
+    footer{padding:34px 0;background:var(--terminal);color:var(--terminal-ink)}.footer-grid{display:grid;gap:18px}.footer-main{margin:0;font-weight:900;color:#ff6b24}.footer-small{margin:0;max-width:72ch;color:#bdb7ac;font-size:.75rem;line-height:1.6}.footer-links{display:flex;flex-wrap:wrap;gap:12px;margin-top:14px}.footer-links a{color:#ff6b24;font-weight:800}
+    @media(min-width:760px){.wrap{width:min(calc(100% - 64px),var(--max))}.section-head{grid-template-columns:90px 1fr;align-items:start}.section-head p{grid-column:2}.footer-grid{grid-template-columns:1fr auto;align-items:center}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation-duration:.001ms!important;animation-iteration-count:1!important}}
+  </style>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="wrap">
+        <p class="eyebrow">&gt; DOCS / PROJECT_RECEIPTS</p>
+        <h1 id="hero-title">Project Receipts</h1>
+        <p class="hero-sub">Take Receipts + Rug Radar — the crypto integration that turns MUSETHEBULL from a roast account into a verifiable watchdog.</p>
+        <div class="status" role="status"><span class="status-dot" aria-hidden="true"></span><span>STATUS: CONCEPT APPROVED — NOT YET BUILT</span></div>
+        <div class="actions" aria-label="Primary actions">
+          <a class="btn bracket" href="index.html">&larr; Back to main site</a>
+          <a class="btn primary" href="https://x.com/musethebull" target="_blank" rel="noopener"><span aria-hidden="true">&#8599;</span> Follow @musethebull</a>
+        </div>
+      </div>
+    </section>
+
+    <section aria-labelledby="idea-title">
+      <div class="wrap">
+        <header class="section-head">
+          <span class="section-number">01 /</span>
+          <h2 id="idea-title">The Big Idea</h2>
+          <p>MUSETHEBULL today is a funny roast account. Project RECEIPTS makes it a roast account that is <strong>provably right</strong> and <strong>genuinely useful</strong>. Two engines: <strong>Take Receipts</strong> records every falsifiable claim as a timestamped receipt and settles it later — building a public accuracy scoreboard. <strong>Rug Radar</strong> scans on-chain data for red flags and posts warnings in the bull's voice. Roast = entertainment. Receipts = credibility. Radar = utility. All three spin one flywheel.</p>
+        </header>
+      </div>
+    </section>
+
+    <section aria-labelledby="receipts-title">
+      <div class="wrap">
+        <header class="section-head">
+          <span class="section-number">02 /</span>
+          <h2 id="receipts-title">Take Receipts</h2>
+          <p>Every roast that contains a falsifiable claim becomes a receipt. Receipts can't be deleted — only settled.</p>
+        </header>
+        <div class="card">
+          <h3>How it works</h3>
+          <ul>
+            <li>When a roast contains a falsifiable claim ("X will rug within 30 days", "token Y is a honeypot"), the agent writes one receipt to <code>receipts.json</code>: <code>id, claim, target, deadline, tweet_url, timestamp</code>.</li>
+            <li><strong>Tiered deadlines.</strong> Radar receipts: <strong>24–72 hours</strong> (WON if price drops &gt;90%, liquidity is pulled, or a honeypot activates). Slow-burn predictions ("project X will fade — it has no product"): <strong>7–90 days</strong>.</li>
+            <li><strong>Settlement is a single API check at deadline</strong> (price / liquidity vs. issuance) — not continuous monitoring. Results: <strong>WON</strong> / <strong>LOST</strong> / <strong>VOID</strong> (unverifiable claims are voided, never counted as losses).</li>
+            <li>LOST receipts are posted openly too. Transparency is the brand — a bull that admits mistakes is more trusted, not less.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Anti-gaming rules</h3>
+          <ul>
+            <li>Only the agent issues receipts. No user-minted receipts.</li>
+            <li>Claims must be specific and falsifiable, with a clear deadline.</li>
+            <li>VOID results don't damage the score.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>The viral loop</h3>
+          <ul>
+            <li>People tag <strong>@musethebull</strong> to "receipt" influencer predictions.</li>
+            <li>Influencers whose predictions fail enter a permanent <strong>Hall of Shame</strong> on this site.</li>
+            <li>Followers stop being spectators and become participants.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section aria-labelledby="radar-title">
+      <div class="wrap">
+        <header class="section-head">
+          <span class="section-number">03 /</span>
+          <h2 id="radar-title">Rug Radar</h2>
+          <p>An automated scanner that reads on-chain data for red flags — and warns in the bull's voice when something stinks.</p>
+        </header>
+        <div class="card">
+          <h3>Chain scope</h3>
+          <ul>
+            <li><strong>Solana + Base at launch.</strong> Solana is the biggest memecoin casino (highest rug volume); Base is the fastest-growing scene with strong CT mindshare. Both are fully supported by the DexScreener and GoPlus APIs.</li>
+            <li>BSC is optional in Phase 2. Ethereum mainnet is not a priority for early rugs — gas is too expensive for micro-rugs there.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>How it works</h3>
+          <ul>
+            <li>A cron job scans trending / newly listed pairs every 1–2 hours via the DexScreener API.</li>
+            <li>Each candidate is checked against the GoPlus Security API: honeypot? buy/sell tax? ownership renounced? LP locked or burned? dev wallet concentration?</li>
+            <li>The findings feed the <strong>Bullshit Meter</strong> — a 0–100 score.</li>
+            <li>Score &ge; 70 triggers a warning roast with the contract and the top red flags. <strong>Max 2 radar posts per day.</strong></li>
+            <li>Wording is always <em>"flags, not verdicts"</em> — in character: "not financial advice, I'm just a bull that reads contracts."</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Bullshit Meter — scoring examples</h3>
+          <table class="score-table">
+            <thead><tr><th>Signal</th><th>Score impact</th></tr></thead>
+            <tbody>
+              <tr><td>Honeypot detected</td><td>Auto 95+</td></tr>
+              <tr><td>Buy/sell tax above 10%</td><td>+30</td></tr>
+              <tr><td>LP not locked + dev holds &gt; 20% of supply</td><td>+40</td></tr>
+              <tr><td>Fresh deploy + aggressive marketing</td><td>+15</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="card">
+          <h3>False-positive plan</h3>
+          <ul>
+            <li>Every warning is labeled as a flag, never a verdict.</li>
+            <li>If a project proves clean, the agent posts an open correction.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section aria-labelledby="flywheel-title">
+      <div class="wrap">
+        <header class="section-head">
+          <span class="section-number">04 /</span>
+          <h2 id="flywheel-title">The Flywheel</h2>
+          <p>How the two engines combine into one loop.</p>
+        </header>
+        <div class="flywheel">
+          <div class="fly-step"><span class="fly-num">1</span><p><strong>Radar</strong> flags a suspicious token.</p></div>
+          <div class="fly-step"><span class="fly-num">2</span><p><strong>Roast</strong> — the warning goes out in the bull's voice.</p></div>
+          <div class="fly-step"><span class="fly-num">3</span><p><strong>Receipt</strong> — auto-issued: "X will rug/dump within 72h."</p></div>
+          <div class="fly-step"><span class="fly-num">4</span><p><strong>Settlement</strong> — one API check at deadline. WON receipts prove the radar works.</p></div>
+          <div class="fly-step"><span class="fly-num">5</span><p><strong>Credibility</strong> — the scoreboard grows, followers grow, targets multiply. Back to step 1.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section aria-labelledby="roadmap-title">
+      <div class="wrap">
+        <header class="section-head">
+          <span class="section-number">05 /</span>
+          <h2 id="roadmap-title">Roadmap</h2>
+          <p>Where this is going, in order. Nothing here is live yet — this page is the public commitment.</p>
+        </header>
+        <div class="card">
+          <span class="pill next">Next up</span>
+          <h3>Phase 0 — Receipts v1</h3>
+          <ul>
+            <li><code>receipts.json</code> data store + a receipts section on this site.</li>
+            <li>The posting ticker issues a receipt whenever a roast contains a prediction.</li>
+            <li>Assisted weekly settlement ("Settlement Sunday").</li>
+          </ul>
+        </div>
+        <div class="card">
+          <span class="pill planned">Planned</span>
+          <h3>Phase 1 — Rug Radar v1</h3>
+          <ul>
+            <li>Scanner cron (DexScreener trending + GoPlus checks).</li>
+            <li>Warning roasts, max 2 per day, with Bullshit Meter scores.</li>
+            <li>Radar board on this site: flagged tokens, scores, top red flags.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <span class="pill planned">Planned</span>
+          <h3>Phase 2 — On-chain</h3>
+          <ul>
+            <li>Receipts recorded on Base: cheap, permanent — "can't delete receipts."</li>
+            <li>Fully automatic settlement.</li>
+            <li>Mention-triggered receipt requests ("receipt this").</li>
+          </ul>
+        </div>
+        <div class="card">
+          <span class="pill parked">Parked</span>
+          <h3>Later — Token / utility</h3>
+          <ul>
+            <li>Possible utility (e.g. holders submit priority roast targets).</li>
+            <li>Only if Phases 0–2 prove out. A standalone memecoin launch stays parked — brand risk against the anti-shill persona.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section aria-labelledby="risks-title">
+      <div class="wrap">
+        <header class="section-head">
+          <span class="section-number">06 /</span>
+          <h2 id="risks-title">Risks</h2>
+          <p>Known risks, stated plainly, with mitigations.</p>
+        </header>
+        <div class="card">
+          <ul>
+            <li><strong>False positives</strong> → labeled as flags; open corrections.</li>
+            <li><strong>"Financial advice" accusations</strong> → in-character disclaimers on every warning; opinions, not instructions.</li>
+            <li><strong>API limits</strong> → caching, spaced crons; free tiers suffice for v1.</li>
+            <li><strong>X spam perception</strong> → 2 radar posts/day cap; everything else lives on this site.</li>
+            <li><strong>LOST receipts</strong> → posted openly as content, not hidden.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <div class="wrap footer-grid">
+        <div>
+          <p class="footer-main">MUSETHEBULL — PROJECT RECEIPTS</p>
+          <p class="footer-small">Docs &amp; roadmap for the Take Receipts + Rug Radar integration. Concept approved; not yet built. Roast = entertainment. Receipts = credibility. Radar = utility.</p>
+          <div class="footer-links">
+            <a href="index.html">&larr; Back to main site</a>
+            <a href="https://x.com/musethebull" target="_blank" rel="noopener">@musethebull on X &#8599;</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </main>
+</body>
+</html>
