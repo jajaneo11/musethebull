@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": "he said DYOR btw.",
+  "roast_url": "https://x.com/musethebull/status/2109168751312814523",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-11T06:26:31.000Z",
+  "type": "tweet"
+ },
+ {
   "victim_handle": "@0xforce_",
   "victim_url": "https://x.com/0xForce_/status/2109132583246176470",
   "victim_text": null,
