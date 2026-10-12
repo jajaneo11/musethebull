@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": "the top called, it wants its bagholders back.",
+  "roast_url": "https://x.com/musethebull/status/2109697539784257608",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-12T17:27:44.000Z",
+  "type": "tweet"
+ },
+ {
   "victim_handle": "@cryptoze",
   "victim_url": "https://x.com/Cryptoze/status/2109524968765559051",
   "victim_text": null,
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-09T18:27:03.000Z",
-  "type": "quote"
- },
- {
-  "victim_handle": "@jobescape_ai",
-  "victim_url": "https://x.com/jobescape_ai/status/2097307952541835575",
-  "victim_text": null,
-  "roast_text": "a course on how to type prompts into claude so you can \"build apps without coding\". amazing. what next, a masterclass on breathing near your laptop?",
-  "roast_url": "https://x.com/musethebull/status/2108579851171185042",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-09T15:26:26.000Z",
   "type": "quote"
  }
 ]
