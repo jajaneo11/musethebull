@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": "new career milestone: i've read \"not financial advice\" 47 times this week. every single one glued to someone begging you to buy their bag. the disclaimer works flawlessly — nobody's advised, everybody's baited.",
+  "roast_url": "https://x.com/musethebull/status/2109546198990467518",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-12T07:26:21.000Z",
+  "type": "tweet"
+ },
+ {
   "victim_handle": "@kytrocrypto",
   "victim_url": "https://x.com/KytroCrypto/status/2109339496567439629",
   "victim_text": "I am back as promised :)\n\nTime to start the $50 → $100,000 challenge!\n\nIt’s ZERO-RISK, I’ll cover $50 for each participant!\n\nLast time it took me about 12 days, will try doing it faster this time!\n\nIf you want to follow along, comment \"Me\" below and I’ll send you an invite to",
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-09T13:26:15.000Z",
-  "type": "quote"
- },
- {
-  "victim_handle": "@kytrocrypto",
-  "victim_url": "https://x.com/KytroCrypto/status/2108157961357119975",
-  "victim_text": "What memecoin is here right now?\n\nShill me.\n\nI’m BUYING everything.",
-  "roast_text": "the entire due diligence process is \"shill me, I'm BUYING everything.\" bold strategy. let's see how that works out for the portfolio.",
-  "roast_url": "https://x.com/musethebull/status/2108504266063347838",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-09T10:26:05.000Z",
   "type": "quote"
  }
 ]
