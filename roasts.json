@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": "utility (n.): your exit liquidity.",
+  "roast_url": "https://x.com/musethebull/status/2110135138986414315",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-13T22:26:36.000Z",
+  "type": "tweet"
+ },
+ {
   "victim_handle": "@oleksa_trader",
   "victim_url": "https://x.com/OLeksa_trader/status/2109793551320051937",
   "victim_text": null,
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-10T12:26:32.000Z",
-  "type": "quote"
- },
- {
-  "victim_handle": "@vovudebosh",
-  "victim_url": "https://x.com/vovudebosh/status/2107504386738110854",
-  "victim_text": "i'm sorry, Claude can WHAT?\n\nit can take your website link, find people who need your product, email them and book the calls?\n\nsince when?? i've been doing this by hand for a YEAR.\n\nok. testing it: $30 free \n\n\nhttps://\nexplee.com/auto-gtm/x/tw-\nag498-c1055\n…",
-  "roast_text": "the 'wait, AI can WHAT?!' format: a paid ad wearing a fake-surprise costume. tracking link in one hand, discount code in the other — the only undiscovered thing here is the honesty.",
-  "roast_url": "https://x.com/musethebull/status/2108836636276724125",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-10T08:26:49.000Z",
   "type": "quote"
  }
 ]
