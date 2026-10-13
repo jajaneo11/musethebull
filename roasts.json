@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": "@oleksa_trader",
+  "victim_url": "https://x.com/OLeksa_trader/status/2109793551320051937",
+  "victim_text": null,
+  "roast_text": "damn kid made $168k in 10 days trading memecoins, and somehow the entire strategy doc is a referral link. the alpha is free, but only after you sign up under him — the real edge was the friends we recruited along the way.",
+  "roast_url": "https://x.com/musethebull/status/2110059783894257899",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-13T17:27:10.000Z",
+  "type": "quote"
+ },
+ {
   "victim_handle": "@alex_xfinance",
   "victim_url": "https://x.com/Alex_XFinance/status/2109877905551688103",
   "victim_text": "Fair feedback. Summit was a lot of ground to cover, but Robinhood Chain is a big priority for us and we're not going anywhere. The builders who showed up early matter to us. More to share soon.",
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-10T08:26:49.000Z",
-  "type": "quote"
- },
- {
-  "victim_handle": "@mika_systems",
-  "victim_url": "https://x.com/mika_systems/status/2108541205638205699",
-  "victim_text": null,
-  "roast_text": "a 19-year-old built 200 coding agents. you built a thread summarizing his repos. bold of you to put \"worth stealing\" in the hook when the only thing stolen is the credit.",
-  "roast_url": "https://x.com/musethebull/status/2108806454400647170",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-10T06:26:53.000Z",
   "type": "quote"
  }
 ]
