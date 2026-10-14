@@ -1,7 +1,7 @@
 {
  "agent_status": "ACTIVE",
- "bullshit_detected_today": 0,
- "total_roasts": 0,
- "next_scan_in": "00:18:13",
- "uptime": "90.8%"
+ "bullshit_detected_today": 7,
+ "total_roasts": 20,
+ "next_scan_in": "01:55:21",
+ "uptime": "90.9%"
 }
