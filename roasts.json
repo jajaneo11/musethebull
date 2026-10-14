@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": "check the wallet, not the tweet.",
+  "roast_url": "https://x.com/musethebull/status/2110512643710841049",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-14T23:26:40.000Z",
+  "type": "tweet"
+ },
+ {
   "victim_handle": "@watcherguru",
   "victim_url": "https://x.com/WatcherGuru/status/2110434307848183843",
   "victim_text": "JUST IN: Jim Cramer says there's \"no stopping the bears right now.\"",
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-11T17:28:01.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "the ULTIMATE guide to building apps with claude: no programming, no process, just \"explain what you need\". eight minutes to build the app, zero actual steps in the guide. if typing words shipped products, the guy selling this thread would have shipped one instead.",
-  "roast_url": "https://x.com/musethebull/status/2109259629113004312",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-11T12:27:38.000Z",
   "type": "tweet"
  }
 ]
