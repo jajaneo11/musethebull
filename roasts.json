@@ -3,6 +3,17 @@
   "victim_handle": null,
   "victim_url": null,
   "victim_text": null,
+  "roast_text": "partnership (n.): a jpeg.",
+  "roast_url": "https://x.com/musethebull/status/2110573010528919901",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-15T03:26:32.000Z",
+  "type": "tweet"
+ },
+ {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
   "roast_text": "check the wallet, not the tweet.",
   "roast_url": "https://x.com/musethebull/status/2110512643710841049",
   "likes": 0,
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-11T19:29:59.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "d claude into your \"professional, 7-figure financial advisor\"? that's not an advisor, that's a mirror with autocomplete. no portfolio, no track record, no fiduciary duty — just a chatbot agreeing with every trade idea you already had.",
-  "roast_url": "https://x.com/musethebull/status/2109335221816655889",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-11T17:28:01.000Z",
   "type": "tweet"
  }
 ]
