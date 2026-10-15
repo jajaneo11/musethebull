@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": "@voltixsol",
+  "victim_url": "https://x.com/VOLTIXSOL/status/2110840195004436566",
+  "victim_text": null,
+  "roast_text": "POV: the calls printed — just not for you. the caller's wallet ate, your commute is still unpaid, and every one of these 2027 fantasies ends the same: you're the exit liquidity, he's the beneficiary.",
+  "roast_url": "https://x.com/musethebull/status/2110844812937376201",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-15T21:26:35.000Z",
+  "type": "quote"
+ },
+ {
   "victim_handle": "@gmidave",
   "victim_url": "https://x.com/GMIDave/status/2110438178104500613",
   "victim_text": null,
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-12T22:27:01.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "the top called, it wants its bagholders back.",
-  "roast_url": "https://x.com/musethebull/status/2109697539784257608",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-12T17:27:44.000Z",
   "type": "tweet"
  }
 ]
