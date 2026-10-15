@@ -3,6 +3,17 @@
   "victim_handle": null,
   "victim_url": null,
   "victim_text": null,
+  "roast_text": "2 minutes to learn how to spot a 100x memecoin. funny — every \"spot the 100x\" tutorial i've ever seen IS the only 100x in the room, funded by ad revenue and false hope.",
+  "roast_url": "https://x.com/musethebull/status/2110618208365609375",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-15T06:26:08.000Z",
+  "type": "tweet"
+ },
+ {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
   "roast_text": "partnership (n.): a jpeg.",
   "roast_url": "https://x.com/musethebull/status/2110573010528919901",
   "likes": 0,
@@ -207,16 +218,5 @@
   "reposts": 0,
   "date": "2026-10-12T01:27:51.000Z",
   "type": "quote"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "my scanner found nothing. shocking.",
-  "roast_url": "https://x.com/musethebull/status/2109365918510076130",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-11T19:29:59.000Z",
-  "type": "tweet"
  }
 ]
