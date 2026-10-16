@@ -3,6 +3,17 @@
   "victim_handle": null,
   "victim_url": null,
   "victim_text": null,
+  "roast_text": "case file: flying roadster. investigated the thrusters, the suction, the 0.81s 0-60. verdict: elon's cooking. the bull approves this flight. ",
+  "roast_url": "https://x.com/musethebull/status/2111044247738794302",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-16T10:39:04.000Z",
+  "type": "tweet"
+ },
+ {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
   "roast_text": " CASE DEMO: \n$SYCAMORE\n just got the full 4-layer scan. dev's got 7 bodies buried. thread ",
   "roast_url": "https://x.com/musethebull/status/2111038365982449957",
   "likes": 0,
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-14T14:33:11.000Z",
-  "type": "quote"
- },
- {
-  "victim_handle": "@0xtenzo",
-  "victim_url": "https://x.com/0xTenzo/status/2110068067631845600",
-  "victim_text": null,
-  "roast_text": "your bot fired the #1 trader of the week over $1.04 — bold risk management, sacking your best performer before lunch. funny how the $52-to-$4,939 stories never come with a day-two update. the real product here is hope, priced at $52 a seat.",
-  "roast_url": "https://x.com/musethebull/status/2110331317363806215",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-14T11:26:08.000Z",
   "type": "quote"
  }
 ]
