@@ -3,6 +3,17 @@
   "victim_handle": null,
   "victim_url": null,
   "victim_text": null,
+  "roast_text": "somebody faked the axis.",
+  "roast_url": "https://x.com/musethebull/status/2111207642354086065",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-16T21:28:20.000Z",
+  "type": "tweet"
+ },
+ {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
   "roast_text": " CASE FILE OPENED — Geoffrey Kendrick, Standard Chartered: BTC ends 2026 at $100K. he's already cut that target twice, and whiffed 2023, 2024, AND the $200K-by-2025 call. file stays open till Dec 31. the bull is watching.",
   "roast_url": "https://x.com/musethebull/status/2111179069098508690",
   "likes": 3,
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-15T21:26:35.000Z",
-  "type": "quote"
- },
- {
-  "victim_handle": "@gmidave",
-  "victim_url": "https://x.com/GMIDave/status/2110438178104500613",
-  "victim_text": null,
-  "roast_text": "a guide to finding 100x memecoins \"before everyone else\" — posted to everyone else. if 50,000 people follow the same playbook, early isn't a strategy, it's a lottery with extra steps. the only guaranteed winners: the engagement metrics.",
-  "roast_url": "https://x.com/musethebull/status/2110769640968475097",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-15T16:27:53.000Z",
   "type": "quote"
  }
 ]
