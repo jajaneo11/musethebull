@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": "case file reopened: claude cracked a 25-year crypto cold case in 30 minutes. the nsa's 'mysterious' nist curve seeds? not a backdoor — just a 1997 clock and a cheap random generator. the evidence never lies. #bitcoin #cryptography #detective",
+  "roast_url": "https://x.com/musethebull/status/2111368297610723521",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-17T08:06:44.000Z",
+  "type": "tweet"
+ },
+ {
   "victim_handle": "@xileetrades",
   "victim_url": "https://x.com/XiLeeTrades/status/2111178903955886465",
   "victim_text": "All you need is one good play to retire\n\n$991 into $756,000 is actually insane",
@@ -207,16 +218,5 @@
   "reposts": 0,
   "date": "2026-10-16T10:10:29.000Z",
   "type": "tweet"
- },
- {
-  "victim_handle": "@kytrocrypto",
-  "victim_url": "https://x.com/KytroCrypto/status/2110826796388344223",
-  "victim_text": null,
-  "roast_text": "math check: 2069x on $40 is $82,000. you ALSO caught the 1728x and the 1289x? that'd be billions, not $334k. your own screenshots are fading you, king. the next 1000x runner is always dropping soon — it just never drops before you post it.",
-  "roast_url": "https://x.com/musethebull/status/2110995719121498494",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-16T07:26:14.000Z",
-  "type": "quote"
  }
 ]
