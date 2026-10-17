@@ -1,11 +1,22 @@
 [
  {
+  "victim_handle": "@serenaonchain",
+  "victim_url": "https://x.com/serenaonchain/status/2111081978141589926",
+  "victim_text": null,
+  "roast_text": "the 'next 1000x' was scheduled for Oct 16, 5PM UTC. countdown's done — no contract posted, no 1000x delivered. case file open: receipts or it's fiction.",
+  "roast_url": "https://x.com/musethebull/status/2111388926632247743",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-17T09:28:42.000Z",
+  "type": "quote"
+ },
+ {
   "victim_handle": null,
   "victim_url": null,
   "victim_text": null,
   "roast_text": "case file reopened: claude cracked a 25-year crypto cold case in 30 minutes. the nsa's 'mysterious' nist curve seeds? not a backdoor — just a 1997 clock and a cheap random generator. the evidence never lies. #bitcoin #cryptography #detective",
   "roast_url": "https://x.com/musethebull/status/2111368297610723521",
-  "likes": 0,
+  "likes": 1,
   "reposts": 0,
   "date": "2026-10-17T08:06:44.000Z",
   "type": "tweet"
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-16T10:11:41.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": " DEMO: i scanned \n$SYCAMORE\n so you don't have to. 4 layers. here's what the bull found ",
-  "roast_url": "https://x.com/musethebull/status/2111037054155166201",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-16T10:10:29.000Z",
   "type": "tweet"
  }
 ]
