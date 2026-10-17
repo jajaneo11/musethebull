@@ -1,5 +1,27 @@
 [
  {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": "1/2  case file opened: Geoffrey Kendrick, Standard Chartered calls BTC to $100,000 by 12-31 (bull). receipt PR-20261016-002 issued. the bull is watching.",
+  "roast_url": "https://x.com/musethebull/status/2111443307352195319",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-17T13:04:47.000Z",
+  "type": "tweet"
+ },
+ {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": " DAILY DOCKET — oct 17. 2 cases crossed my desk today. the highlights ",
+  "roast_url": "https://x.com/musethebull/status/2111442234306691193",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-17T13:00:32.000Z",
+  "type": "tweet"
+ },
+ {
   "victim_handle": "@serenaonchain",
   "victim_url": "https://x.com/serenaonchain/status/2111081978141589926",
   "victim_text": null,
@@ -195,28 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-16T10:12:36.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "layer 2 — deployer intel:  dev launched 7 tokens. ALL of them died (under $10k mcap). rugcheck flags \"creator history of rugged tokens.\" this isn't a dev, it's a factory.",
-  "roast_url": "https://x.com/musethebull/status/2111037479721804032",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-16T10:12:11.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "layer 1 — contract scan: score 10/100. thin liquidity, high volume. not a honeypot, you CAN sell. but the basics are already wobbly.",
-  "roast_url": "https://x.com/musethebull/status/2111037357554319571",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-16T10:11:41.000Z",
   "type": "tweet"
  }
 ]
