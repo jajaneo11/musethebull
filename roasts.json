@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": "@chadscabal",
+  "victim_url": "https://x.com/chadscabal/status/2111775980616393206",
+  "victim_text": null,
+  "roast_text": "four runners posted, the ninety-nine rugs quietly deleted. that's not alpha, that's survivorship bias with a CTA. \"don't fade my next callout\" — the bull fades the 95% you never mention. case filed.",
+  "roast_url": "https://x.com/musethebull/status/2111811476134736029",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-18T13:27:46.000Z",
+  "type": "quote"
+ },
+ {
   "victim_handle": null,
   "victim_url": null,
   "victim_text": null,
@@ -207,16 +218,5 @@
   "reposts": 0,
   "date": "2026-10-16T18:41:20.000Z",
   "type": "tweet"
- },
- {
-  "victim_handle": "@dikerdale",
-  "victim_url": "https://x.com/dikerdale/status/2111079445482410187",
-  "victim_text": null,
-  "roast_text": "case file opened: \"$2.5K → $10M, retired off a memecoin.\" that's a 4,000x with no wallet, no timestamps, no proof — just a retirement speech. the bull keeps files on claims like this. receipts, or it's a lead-in to a course.",
-  "roast_url": "https://x.com/musethebull/status/2111117168691872012",
-  "likes": 9,
-  "reposts": 0,
-  "date": "2026-10-16T15:28:50.000Z",
-  "type": "quote"
  }
 ]
