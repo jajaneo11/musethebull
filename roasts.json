@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": "geology is hard.",
+  "roast_url": "https://x.com/musethebull/status/2111856707504869563",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-18T16:27:30.000Z",
+  "type": "tweet"
+ },
+ {
   "victim_handle": "@chadscabal",
   "victim_url": "https://x.com/chadscabal/status/2111775980616393206",
   "victim_text": null,
@@ -206,17 +217,6 @@
   "likes": 4,
   "reposts": 0,
   "date": "2026-10-16T19:34:48.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "case file: the roadster now runs on vacuum suction — elon says it'll crush f1 lap times with downforce so illegal it's banned by f1 itself. the bull's filing this under 'speed claims with suction'. timestamped for the receipts. #Tesla #Roadster #F1",
-  "roast_url": "https://x.com/musethebull/status/2111165612865262069",
-  "likes": 2,
-  "reposts": 0,
-  "date": "2026-10-16T18:41:20.000Z",
   "type": "tweet"
  }
 ]
