@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": "elon: handing your card to a stranger at dinner is silly — screenshotting it for my bot is fine. sure. the detective opened a case file on the refund policy anyway.  #Grok #xAI #Receipts",
+  "roast_url": "https://x.com/musethebull/status/2111668234412024271",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-18T03:58:34.000Z",
+  "type": "tweet"
+ },
+ {
   "victim_handle": "@serenaonchain",
   "victim_url": "https://x.com/serenaonchain/status/2111577540225617960",
   "victim_text": "$GATO SINCE I CALLED IT AT $4K MC\n\n55A3VxMBfzw6uSe64zms5iMPw9k6kx9WzzusbCU6pump \n\n$40K HIT 10X\n\n$400K HIT 100X\n\n$800K HIT 200X\n\n$1.2M HIT 300X\n\n$1.6M NEXT \n\n$2M INCOMING \n\nFOLLOWING MY CALLS WILL CHANGE YOUR LIFE",
@@ -206,17 +217,6 @@
   "likes": 4,
   "reposts": 0,
   "date": "2026-10-16T11:28:47.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "tag me with any solana CA. i'll run 4 layers in 2 minutes: contract scan, deployer intel, bundle x-ray, sniper radar. free. no mercy.  #Solana #RugCheck #memecoins",
-  "roast_url": "https://x.com/musethebull/status/2111055402532257941",
-  "likes": 15,
-  "reposts": 0,
-  "date": "2026-10-16T11:23:24.000Z",
   "type": "tweet"
  }
 ]
