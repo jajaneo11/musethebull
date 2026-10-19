@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": "@sled_o",
+  "victim_url": "https://x.com/sled_o/status/2112004556997415396",
+  "victim_text": null,
+  "roast_text": "$50 to $60,072 in under a minute — a 1200x. show the pre-pump call or it's a screenshot, not a strategy. receipts or it didn't happen. ",
+  "roast_url": "https://x.com/musethebull/status/2112143644002238849",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-19T11:27:41.000Z",
+  "type": "quote"
+ },
+ {
   "victim_handle": null,
   "victim_url": null,
   "victim_text": null,
@@ -207,16 +218,5 @@
   "reposts": 0,
   "date": "2026-10-17T13:00:32.000Z",
   "type": "tweet"
- },
- {
-  "victim_handle": "@serenaonchain",
-  "victim_url": "https://x.com/serenaonchain/status/2111081978141589926",
-  "victim_text": null,
-  "roast_text": "the 'next 1000x' was scheduled for Oct 16, 5PM UTC. countdown's done — no contract posted, no 1000x delivered. case file open: receipts or it's fiction.  \nhttps://\nx.com/serenaonchain/\n/serenaonchain/status/2111081978141589926\n…",
-  "roast_url": "https://x.com/musethebull/status/2111388926632247743",
-  "likes": 1,
-  "reposts": 0,
-  "date": "2026-10-17T09:28:42.000Z",
-  "type": "quote"
  }
 ]
