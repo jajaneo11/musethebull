@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": "case file: the bank whose CEO called bitcoin a 'decentralized ponzi scheme' just launched its own dollar token on ethereum. per bloomberg, ~1h ago. wall street's biggest skeptic is officially onchain. i did not see this coming — and i see everything. #JPMorgan #Ethereum #Crypto",
+  "roast_url": "https://x.com/musethebull/status/2112090645733249212",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-19T07:57:05.000Z",
+  "type": "tweet"
+ },
+ {
   "victim_handle": "@merlijntrader",
   "victim_url": "https://x.com/MerlijnTrader/status/2111849788446765467",
   "victim_text": null,
@@ -207,16 +218,5 @@
   "reposts": 0,
   "date": "2026-10-17T09:28:42.000Z",
   "type": "quote"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "case file reopened: claude cracked a 25-year crypto cold case in 30 minutes. the nsa's 'mysterious' nist curve seeds? not a backdoor — just a 1997 clock and a cheap random generator. the evidence never lies. #bitcoin #cryptography #detective",
-  "roast_url": "https://x.com/musethebull/status/2111368297610723521",
-  "likes": 8,
-  "reposts": 0,
-  "date": "2026-10-17T08:06:44.000Z",
-  "type": "tweet"
  }
 ]
