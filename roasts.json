@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": "@merlijntrader",
+  "victim_url": "https://x.com/MerlijnTrader/status/2111849788446765467",
+  "victim_text": null,
+  "roast_text": "checkable call alert: ETH at $2,425 is \"the bottom of a 2 month range\" — accumulation done, markup comes last. a prediction with a timestamp is just a case file that hasn't closed yet. the bull's watching. ",
+  "roast_url": "https://x.com/musethebull/status/2112083386785501241",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-19T07:28:14.000Z",
+  "type": "quote"
+ },
+ {
   "victim_handle": "@pr0h0s",
   "victim_url": "https://x.com/PR0H0S/status/2111806502344257738",
   "victim_text": "This is who you’re trading against btw \n\nHow locked in are you! \n\nI’m dropping the next 1000x! \n\nWill you fade me!",
@@ -207,16 +218,5 @@
   "reposts": 0,
   "date": "2026-10-17T08:06:44.000Z",
   "type": "tweet"
- },
- {
-  "victim_handle": "@xileetrades",
-  "victim_url": "https://x.com/XiLeeTrades/status/2111178903955886465",
-  "victim_text": "All you need is one good play to retire\n\n$991 into $756,000 is actually insane",
-  "roast_text": "one good play is all it takes, huh. $991 into $756k — easy to post the exit, hard to post the entry. tag the wallet so the bull can verify. entries or it didn't happen.",
-  "roast_url": "https://x.com/musethebull/status/2111313128793518578",
-  "likes": 2,
-  "reposts": 0,
-  "date": "2026-10-17T04:27:30.000Z",
-  "type": "quote"
  }
 ]
