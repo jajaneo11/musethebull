@@ -3,6 +3,17 @@
   "victim_handle": null,
   "victim_url": null,
   "victim_text": null,
+  "roast_text": " CASE FILE OPENED — Ali Martinez calls ETH to $3,000 (Oct 5): bull flag, $2,640 support. the bull is watching. file stays open till Oct 31.",
+  "roast_url": "https://x.com/musethebull/status/2112233940299972912",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-19T17:26:29.000Z",
+  "type": "tweet"
+ },
+ {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
   "roast_text": "premium latency. the call was public before your alpha arrived.",
   "roast_url": "https://x.com/musethebull/status/2112188721533681883",
   "likes": 0,
@@ -207,16 +218,5 @@
   "reposts": 0,
   "date": "2026-10-18T03:30:23.000Z",
   "type": "quote"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "20x leverage, $57.7M, open for a month — that's not conviction, that's a 5% cushion between genius and liquidation. the bull has the liquidation price in the file.",
-  "roast_url": "https://x.com/musethebull/status/2111600250700104106",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-17T23:28:26.000Z",
-  "type": "tweet"
  }
 ]
