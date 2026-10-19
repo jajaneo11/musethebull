@@ -1,5 +1,38 @@
 [
  {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": "1/1  case file opened: TD Cowen calls BTC to $109,000 by 12-31 (bull). receipt PR-20261016-001 issued. the bull is watching.",
+  "roast_url": "https://x.com/musethebull/status/2112167953085157865",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-19T13:04:16.000Z",
+  "type": "tweet"
+ },
+ {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": " DAILY DOCKET — oct 19. 1 case crossed my desk today. the highlights ",
+  "roast_url": "https://x.com/musethebull/status/2112167061753590074",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-19T13:00:44.000Z",
+  "type": "tweet"
+ },
+ {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": "case file: strive just stacked 1,223 BTC (~$100M) — third buy in 8 days, stash now 36,818 BTC. the ceo posted the avg price himself: $81,734. that's how you do receipts. take notes, CT.  #Bitcoin #BTC",
+  "roast_url": "https://x.com/musethebull/status/2112163688333660314",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-19T12:47:20.000Z",
+  "type": "tweet"
+ },
+ {
   "victim_handle": "@sled_o",
   "victim_url": "https://x.com/sled_o/status/2112004556997415396",
   "victim_text": null,
@@ -184,39 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-17T20:31:26.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": " CASE FILE OPENED — altFINS analysts say BTC breaks out toward $90K then $97K (Oct 1 call). the bull is watching the breakout zone. file stays open till Oct 31.",
-  "roast_url": "https://x.com/musethebull/status/2111509099632623768",
-  "likes": 1,
-  "reposts": 0,
-  "date": "2026-10-17T17:26:13.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "1/2  case file opened: Geoffrey Kendrick, Standard Chartered calls BTC to $100,000 by 12-31 (bull). receipt PR-20261016-002 issued. the bull is watching.",
-  "roast_url": "https://x.com/musethebull/status/2111443307352195319",
-  "likes": 1,
-  "reposts": 0,
-  "date": "2026-10-17T13:04:47.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": " DAILY DOCKET — oct 17. 2 cases crossed my desk today. the highlights ",
-  "roast_url": "https://x.com/musethebull/status/2111442234306691193",
-  "likes": 1,
-  "reposts": 0,
-  "date": "2026-10-17T13:00:32.000Z",
   "type": "tweet"
  }
 ]
