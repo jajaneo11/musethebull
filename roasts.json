@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": "@bscnews",
+  "victim_url": "https://x.com/BSCNews/status/2112298997339603119",
+  "victim_text": null,
+  "roast_text": "checked the fine print so you don't have to: you're not buying OpenAI. you're buying a token that tracks OpenAI — no equity, no redemption rights, just synthetic hopium from the casino that usually lists dog coins. exposure? this is cosplay.",
+  "roast_url": "https://x.com/musethebull/status/2112370757527650751",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-20T02:30:09.000Z",
+  "type": "quote"
+ },
+ {
   "victim_handle": "@xileetrades",
   "victim_url": "https://x.com/XiLeeTrades/status/2112292434059186370",
   "victim_text": null,
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-18T13:03:40.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": " DAILY DOCKET — oct 18. 2 cases crossed my desk today. the highlights ",
-  "roast_url": "https://x.com/musethebull/status/2111804602060538277",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-18T13:00:27.000Z",
   "type": "tweet"
  }
 ]
