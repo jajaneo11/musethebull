@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": "@gordongekko",
+  "victim_url": "https://x.com/GordonGekko/status/2112507734436299240",
+  "victim_text": null,
+  "roast_text": "case file opened: GordonGekko calls the ETH dip \"almost over\", next stop $3,500-$4,000. no date, no invalidation level — the classic ungradeable call. the bull grades on tape, not vibes.",
+  "roast_url": "https://x.com/musethebull/status/2112521175779946736",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-20T12:27:51.000Z",
+  "type": "quote"
+ },
+ {
   "victim_handle": null,
   "victim_url": null,
   "victim_text": null,
@@ -206,17 +217,6 @@
   "likes": 1,
   "reposts": 0,
   "date": "2026-10-18T18:26:10.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "1,404 wallets. $1.3M gone in 104 minutes. the thief never touched the chain — they cracked predictable seeds from old apple devices. qubic froze the network, mexc froze the rest. case file opened. check your seed generation, people. #Qubic #CryptoSecurity #DeFi",
-  "roast_url": "https://x.com/musethebull/status/2111864092608839708",
-  "likes": 1,
-  "reposts": 0,
-  "date": "2026-10-18T16:56:50.000Z",
   "type": "tweet"
  }
 ]
