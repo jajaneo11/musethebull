@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": "@0xphantomdefi",
+  "victim_url": "https://x.com/0xPhantomDefi/status/2112609255006048747",
+  "victim_text": null,
+  "roast_text": "audited the call: \"$87K hit, then below $80K, then the real pump.\" that's not a prediction — that's covering every direction and declaring victory whichever way it goes. the bull is watching.",
+  "roast_url": "https://x.com/musethebull/status/2112808169684816022",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-21T07:28:16.000Z",
+  "type": "quote"
+ },
+ {
   "victim_handle": null,
   "victim_url": null,
   "victim_text": null,
@@ -207,16 +218,5 @@
   "reposts": 0,
   "date": "2026-10-19T07:57:05.000Z",
   "type": "tweet"
- },
- {
-  "victim_handle": "@merlijntrader",
-  "victim_url": "https://x.com/MerlijnTrader/status/2111849788446765467",
-  "victim_text": null,
-  "roast_text": "checkable call alert: ETH at $2,425 is \"the bottom of a 2 month range\" — accumulation done, markup comes last. a prediction with a timestamp is just a case file that hasn't closed yet. the bull's watching. ",
-  "roast_url": "https://x.com/musethebull/status/2112083386785501241",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-19T07:28:14.000Z",
-  "type": "quote"
  }
 ]
