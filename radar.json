@@ -6,12 +6,12 @@
   "flags": [
    "LOWLIQ_HIGHVOL"
   ],
-  "price_usd": 2.859e-06,
-  "liq_usd": 2930.43,
-  "vol_h24": 471449.77,
-  "chg_h24": -93.35,
+  "price_usd": 2.831e-06,
+  "liq_usd": 2906.13,
+  "vol_h24": 471458.08,
+  "chg_h24": -93.41,
   "pair_url": "https://dexscreener.com/solana/46gTBAw39NQops2miKGoMVhSmDj6yf9Z5Fk9xtpCqfu3",
-  "scanned_at": "2026-10-21T04:19:42+00:00"
+  "scanned_at": "2026-10-21T06:19:39+00:00"
  },
  {
   "symbol": "FERRY",
@@ -20,109 +20,109 @@
   "flags": [
    "NO_LIQ_DATA"
   ],
-  "price_usd": 3.603e-06,
+  "price_usd": 3.547e-06,
   "liq_usd": 0.0,
-  "vol_h24": 56960.48,
-  "chg_h24": 16.3,
+  "vol_h24": 56963.37,
+  "chg_h24": 14.49,
   "pair_url": "https://dexscreener.com/solana/AdiHN9mQCAxf3yjT88emBBHLBTckLuJhxrjpcNRn6mFx",
-  "scanned_at": "2026-10-21T04:19:42+00:00"
+  "scanned_at": "2026-10-21T06:19:39+00:00"
  },
  {
-  "symbol": "ONEPIECE",
+  "symbol": "KIMCHIBOSS",
   "chain": "solana",
   "score": 10,
   "flags": [
    "LOWLIQ_HIGHVOL"
   ],
-  "price_usd": 4.124e-05,
-  "liq_usd": 17945.96,
-  "vol_h24": 513422.56,
-  "chg_h24": -32.59,
-  "pair_url": "https://dexscreener.com/solana/BKK1uAqh2Abn21QwMWvaFYKBrAEEUHf8PXVUB9rs1GL3",
-  "scanned_at": "2026-10-21T04:19:42+00:00"
+  "price_usd": 0.0001349,
+  "liq_usd": 32157.36,
+  "vol_h24": 2156289.62,
+  "chg_h24": 131.0,
+  "pair_url": "https://dexscreener.com/solana/A8HS75tMWQSTJ2YHzaerJHEHkNa2QzNZNdf3CkhsAjRJ",
+  "scanned_at": "2026-10-21T06:19:39+00:00"
  },
  {
   "symbol": "SI276",
   "chain": "solana",
   "score": 0,
   "flags": [],
-  "price_usd": 0.0006226,
-  "liq_usd": 81112.12,
-  "vol_h24": 418888.93,
-  "chg_h24": -4.57,
+  "price_usd": 0.0006316,
+  "liq_usd": 81654.43,
+  "vol_h24": 419112.69,
+  "chg_h24": -4.67,
   "pair_url": "https://dexscreener.com/solana/12jc1DzJpzbCDaKuM4brAKh9jcFry2TLG1FfGsL4ftCG",
-  "scanned_at": "2026-10-21T04:19:42+00:00"
+  "scanned_at": "2026-10-21T06:19:39+00:00"
  },
  {
   "symbol": "KIMCHI",
   "chain": "solana",
   "score": 0,
   "flags": [],
-  "price_usd": 0.01092,
-  "liq_usd": 306827.91,
-  "vol_h24": 7998169.2,
-  "chg_h24": 18552.0,
+  "price_usd": 0.01156,
+  "liq_usd": 318144.18,
+  "vol_h24": 9417831.6,
+  "chg_h24": 19646.0,
   "pair_url": "https://dexscreener.com/solana/AYq1Hkkkq6oitjCNbDEYUo9AHHo6FLaXjuybmLBvvPzD",
-  "scanned_at": "2026-10-21T04:19:42+00:00"
+  "scanned_at": "2026-10-21T06:19:39+00:00"
  },
  {
   "symbol": "MONEYBIZ",
   "chain": "solana",
   "score": 0,
   "flags": [],
-  "price_usd": 0.0006096,
-  "liq_usd": 71563.46,
-  "vol_h24": 3551747.31,
-  "chg_h24": 801.0,
+  "price_usd": 0.000493,
+  "liq_usd": 64360.73,
+  "vol_h24": 3680212.75,
+  "chg_h24": 629.0,
   "pair_url": "https://dexscreener.com/solana/GS1bQcY4W3ScfJMo5Ch9c1xggBUqNpvjoWY7Yc7pJGdL",
-  "scanned_at": "2026-10-21T04:19:42+00:00"
+  "scanned_at": "2026-10-21T06:19:39+00:00"
  },
  {
   "symbol": "Pokecity",
   "chain": "solana",
   "score": 0,
   "flags": [],
-  "price_usd": 0.0007631,
-  "liq_usd": 76081.89,
-  "vol_h24": 894763.07,
-  "chg_h24": 1445.0,
+  "price_usd": 0.0008847,
+  "liq_usd": 82551.47,
+  "vol_h24": 1169556.3,
+  "chg_h24": 1691.0,
   "pair_url": "https://dexscreener.com/solana/13ah1XkrFTsXeaPdvVQn8giGpS3HJVXfVwq9qtAPSqxf",
-  "scanned_at": "2026-10-21T04:19:42+00:00"
+  "scanned_at": "2026-10-21T06:19:39+00:00"
  },
  {
   "symbol": "texcat",
   "chain": "solana",
   "score": 0,
   "flags": [],
-  "price_usd": 0.0004937,
-  "liq_usd": 63901.36,
-  "vol_h24": 237185.8,
-  "chg_h24": 29.39,
+  "price_usd": 0.0004581,
+  "liq_usd": 61454.11,
+  "vol_h24": 243592.15,
+  "chg_h24": 13.49,
   "pair_url": "https://dexscreener.com/solana/CzcFVsc2hQvf1ZwU6ya2vRF7g29aNu4nNrHw7JVVD3Vw",
-  "scanned_at": "2026-10-21T04:19:42+00:00"
+  "scanned_at": "2026-10-21T06:19:39+00:00"
  },
  {
   "symbol": "GATO",
   "chain": "solana",
   "score": 0,
   "flags": [],
-  "price_usd": 0.001842,
-  "liq_usd": 127096.51,
-  "vol_h24": 293885.88,
-  "chg_h24": 0.83,
+  "price_usd": 0.002297,
+  "liq_usd": 142135.18,
+  "vol_h24": 360228.14,
+  "chg_h24": 33.44,
   "pair_url": "https://dexscreener.com/solana/5E3dXLXGwmTDCokA51WYYaKttjFZBwqCoyUHBUi5gt2m",
-  "scanned_at": "2026-10-21T04:19:42+00:00"
+  "scanned_at": "2026-10-21T06:19:39+00:00"
  },
  {
-  "symbol": "KIMCHIBOSS",
+  "symbol": "SALVOR",
   "chain": "solana",
   "score": 0,
   "flags": [],
-  "price_usd": 0.0008343,
-  "liq_usd": 81558.47,
-  "vol_h24": 1798593.8,
-  "chg_h24": 1325.0,
-  "pair_url": "https://dexscreener.com/solana/A8HS75tMWQSTJ2YHzaerJHEHkNa2QzNZNdf3CkhsAjRJ",
-  "scanned_at": "2026-10-21T04:19:42+00:00"
+  "price_usd": 0.0003109,
+  "liq_usd": 52766.43,
+  "vol_h24": 19038.72,
+  "chg_h24": 52.91,
+  "pair_url": "https://dexscreener.com/solana/4WzfxBthxkz3YdFrJV9VUwN3pPXGRnCojLCUrMeyLcjR",
+  "scanned_at": "2026-10-21T06:19:39+00:00"
  }
 ]
