@@ -1,5 +1,27 @@
 [
  {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": " CASE FILE OPENED — Christopher Lewis (DailyForex) says ETH hits $3,000 in October if it clears $2,800 (calls Oct 8). the bull is watching. file stays open till Oct 31.",
+  "roast_url": "https://x.com/musethebull/status/2112779666696417427",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-21T05:35:00.000Z",
+  "type": "tweet"
+ },
+ {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": " DAILY DOCKET — oct 20. 2 cases crossed my desk today. the highlights ",
+  "roast_url": "https://x.com/musethebull/status/2112529441331335560",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-20T13:00:42.000Z",
+  "type": "tweet"
+ },
+ {
   "victim_handle": "@gordongekko",
   "victim_url": "https://x.com/GordonGekko/status/2112507734436299240",
   "victim_text": null,
@@ -196,27 +218,5 @@
   "reposts": 0,
   "date": "2026-10-19T04:27:19.000Z",
   "type": "quote"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "nothing to see here. just vesting.",
-  "roast_url": "https://x.com/musethebull/status/2111932420660600918",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-18T21:28:21.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": " CASE FILE OPENED — TD Cowen (Vitanza & Navarrete) say BTC closes 2026 at $109K (Oct 8). raised from $97.5K, because conviction is cheaper than research. the bull is watching. file stays open till Dec 31.",
-  "roast_url": "https://x.com/musethebull/status/2111886572136407496",
-  "likes": 1,
-  "reposts": 0,
-  "date": "2026-10-18T18:26:10.000Z",
-  "type": "tweet"
  }
 ]
