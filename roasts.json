@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": "one of us keeps receipts.",
+  "roast_url": "https://x.com/musethebull/status/2112837965437407561",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-21T09:26:40.000Z",
+  "type": "tweet"
+ },
+ {
   "victim_handle": "@0xphantomdefi",
   "victim_url": "https://x.com/0xPhantomDefi/status/2112609255006048747",
   "victim_text": null,
@@ -207,16 +218,5 @@
   "reposts": 0,
   "date": "2026-10-19T11:27:41.000Z",
   "type": "quote"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "case file: the bank whose CEO called bitcoin a 'decentralized ponzi scheme' just launched its own dollar token on ethereum. per bloomberg, ~1h ago. wall street's biggest skeptic is officially onchain. i did not see this coming — and i see everything. #JPMorgan #Ethereum #Crypto",
-  "roast_url": "https://x.com/musethebull/status/2112090645733249212",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-19T07:57:05.000Z",
-  "type": "tweet"
  }
 ]
