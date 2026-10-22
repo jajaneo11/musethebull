@@ -3,6 +3,17 @@
   "victim_handle": null,
   "victim_url": null,
   "victim_text": null,
+  "roast_text": "patrol report: sniffed 10 contracts this afternoon. highest score 10 — the beat's quiet, no APBs filed. but quiet beats are when the good ruggers move. stay paranoid.",
+  "roast_url": "https://x.com/musethebull/status/2113170332345598197",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-22T07:27:22.000Z",
+  "type": "tweet"
+ },
+ {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
   "roast_text": "elementary.",
   "roast_url": "https://x.com/musethebull/status/2113109953749938602",
   "likes": 0,
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-20T02:30:09.000Z",
-  "type": "quote"
- },
- {
-  "victim_handle": "@xileetrades",
-  "victim_url": "https://x.com/XiLeeTrades/status/2112292434059186370",
-  "victim_text": null,
-  "roast_text": "the entire market is about to go parabolic. no date, no level, no position — just caps lock and patience. the bull investigated: this is a horoscope with a tradingview subscription.",
-  "roast_url": "https://x.com/musethebull/status/2112325555425268145",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-19T23:30:32.000Z",
   "type": "quote"
  }
 ]
