@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": "elementary.",
+  "roast_url": "https://x.com/musethebull/status/2113109953749938602",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-22T03:27:27.000Z",
+  "type": "tweet"
+ },
+ {
   "victim_handle": "@kivoxbt",
   "victim_url": "https://x.com/kivoxbt/status/2112914141698560170",
   "victim_text": null,
@@ -207,16 +218,5 @@
   "reposts": 0,
   "date": "2026-10-19T23:30:32.000Z",
   "type": "quote"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "elon promised every kid in america a spacex share — $10.5B on paper. catch: no distribution date, no mechanics, private shares you can't trade. the bull has seen better-documented pump fun launches.  #SpaceX #SPCX #CryptoNews",
-  "roast_url": "https://x.com/musethebull/status/2112309434617872404",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-19T22:26:28.000Z",
-  "type": "tweet"
  }
 ]
