@@ -1,59 +1,17 @@
 [
  {
-  "symbol": "DSP",
-  "chain": "base",
-  "score": 20,
-  "flags": [
-   "LP_UNLOCKED_WHALE"
-  ],
-  "price_usd": 0.000169,
-  "liq_usd": 86437.9,
-  "vol_h24": 151730.48,
-  "chg_h24": 1517.0,
-  "pair_url": "https://dexscreener.com/base/0x195804f675B3cff6179f29887043eA5A741c775C",
-  "scanned_at": "2026-10-22T22:19:41+00:00"
- },
- {
-  "symbol": "MONEYBIZ",
-  "chain": "solana",
-  "score": 10,
-  "flags": [
-   "LOWLIQ_HIGHVOL"
-  ],
-  "price_usd": 3.518e-06,
-  "liq_usd": 4550.52,
-  "vol_h24": 2903697.24,
-  "chg_h24": -99.57,
-  "pair_url": "https://dexscreener.com/solana/GS1bQcY4W3ScfJMo5Ch9c1xggBUqNpvjoWY7Yc7pJGdL",
-  "scanned_at": "2026-10-22T22:19:41+00:00"
- },
- {
   "symbol": "CYBERCAT",
   "chain": "solana",
   "score": 10,
   "flags": [
    "LOWLIQ_HIGHVOL"
   ],
-  "price_usd": 0.0001195,
-  "liq_usd": 29022.08,
-  "vol_h24": 582571.95,
-  "chg_h24": 68.65,
+  "price_usd": 0.0001004,
+  "liq_usd": 26484.83,
+  "vol_h24": 597730.35,
+  "chg_h24": 41.78,
   "pair_url": "https://dexscreener.com/solana/F22JVg2DwbmLyEJhH4CtVdgULASYX3QTp3MrEiytqSP2",
-  "scanned_at": "2026-10-22T22:19:41+00:00"
- },
- {
-  "symbol": "BTC",
-  "chain": "solana",
-  "score": 10,
-  "flags": [
-   "LOWLIQ_HIGHVOL"
-  ],
-  "price_usd": 0.0003275,
-  "liq_usd": 49581.66,
-  "vol_h24": 1552001.25,
-  "chg_h24": 482.0,
-  "pair_url": "https://dexscreener.com/solana/4UPijxPh3AcSHtXzLFHSjbDibZUNnFFYVhzTjpCqDBbH",
-  "scanned_at": "2026-10-22T22:19:41+00:00"
+  "scanned_at": "2026-10-23T00:19:44+00:00"
  },
  {
   "symbol": "NOOX",
@@ -62,12 +20,12 @@
   "flags": [
    "LOWLIQ_HIGHVOL"
   ],
-  "price_usd": 2.581e-06,
-  "liq_usd": 3087.11,
-  "vol_h24": 1858834.91,
-  "chg_h24": -94.09,
+  "price_usd": 2.571e-06,
+  "liq_usd": 3075.35,
+  "vol_h24": 1858834.93,
+  "chg_h24": -94.11,
   "pair_url": "https://dexscreener.com/solana/6WFSZfs6UojT4GJYxJnoJC78QuJYngREXj834ZyvLujA",
-  "scanned_at": "2026-10-22T22:19:41+00:00"
+  "scanned_at": "2026-10-23T00:19:44+00:00"
  },
  {
   "symbol": "BTC",
@@ -76,12 +34,12 @@
   "flags": [
    "LOWLIQ_HIGHVOL"
   ],
-  "price_usd": 2.281e-06,
-  "liq_usd": 2401.8,
-  "vol_h24": 695745.27,
-  "chg_h24": -95.96,
+  "price_usd": 3.892e-06,
+  "liq_usd": 3693.56,
+  "vol_h24": 696605.37,
+  "chg_h24": -93.11,
   "pair_url": "https://dexscreener.com/solana/CA5baS1GFCw1C29wo3p5dN27AmVZS1n4dYJh88c9mGEy",
-  "scanned_at": "2026-10-22T22:19:41+00:00"
+  "scanned_at": "2026-10-23T00:19:44+00:00"
  },
  {
   "symbol": "MI",
@@ -90,12 +48,12 @@
   "flags": [
    "LOWLIQ_HIGHVOL"
   ],
-  "price_usd": 2.091e-06,
-  "liq_usd": 2230.03,
-  "vol_h24": 821058.96,
-  "chg_h24": -95.42,
+  "price_usd": 2.156e-06,
+  "liq_usd": 2292.76,
+  "vol_h24": 821074.76,
+  "chg_h24": -95.28,
   "pair_url": "https://dexscreener.com/solana/DBFD4YE8Y6U6ipmaoH3s9jKQJwcK61Gsxgiss1bBuLUB",
-  "scanned_at": "2026-10-22T22:19:41+00:00"
+  "scanned_at": "2026-10-23T00:19:44+00:00"
  },
  {
   "symbol": "POINTLESS",
@@ -104,26 +62,26 @@
   "flags": [
    "LOWLIQ_HIGHVOL"
   ],
-  "price_usd": 4.907e-06,
-  "liq_usd": 4418.86,
-  "vol_h24": 545665.51,
-  "chg_h24": -89.07,
+  "price_usd": 4.473e-06,
+  "liq_usd": 4132.25,
+  "vol_h24": 547576.41,
+  "chg_h24": -90.04,
   "pair_url": "https://dexscreener.com/solana/GPkEmKoJHUjjXXGk2ker86heQr6wEHqDbiPPj6u4wdYn",
-  "scanned_at": "2026-10-22T22:19:41+00:00"
+  "scanned_at": "2026-10-23T00:19:44+00:00"
  },
  {
-  "symbol": "TRENCHERS",
+  "symbol": "VIRTUAL",
   "chain": "solana",
   "score": 10,
   "flags": [
    "LOWLIQ_HIGHVOL"
   ],
-  "price_usd": 9.245e-05,
-  "liq_usd": 24606.27,
-  "vol_h24": 231001.29,
-  "chg_h24": 49.31,
-  "pair_url": "https://dexscreener.com/solana/RTmsLPPy6vJckdZgjFFQMFhZSdn1r7e2AhhKbZHMQjR",
-  "scanned_at": "2026-10-22T22:19:41+00:00"
+  "price_usd": 0.0002663,
+  "liq_usd": 43671.99,
+  "vol_h24": 634056.25,
+  "chg_h24": 521.0,
+  "pair_url": "https://dexscreener.com/solana/MFsvPTXCy6eiT1qMpMGKJf6a8K8fdj7YKUFPKDeEXEX",
+  "scanned_at": "2026-10-23T00:19:44+00:00"
  },
  {
   "symbol": "SHADOW",
@@ -132,11 +90,49 @@
   "flags": [
    "LOWLIQ_HIGHVOL"
   ],
-  "price_usd": 0.0002004,
-  "liq_usd": 38137.43,
-  "vol_h24": 281443.47,
-  "chg_h24": 134.0,
+  "price_usd": 0.0001762,
+  "liq_usd": 35717.98,
+  "vol_h24": 313181.38,
+  "chg_h24": 99.56,
   "pair_url": "https://dexscreener.com/solana/6isACdSSLWMvhspMGYFfriWv5REYAkdqXxxPSRiDTkHU",
-  "scanned_at": "2026-10-22T22:19:41+00:00"
+  "scanned_at": "2026-10-23T00:19:44+00:00"
+ },
+ {
+  "symbol": "TRENCHERS",
+  "chain": "solana",
+  "score": 10,
+  "flags": [
+   "LOWLIQ_HIGHVOL"
+  ],
+  "price_usd": 8.603e-05,
+  "liq_usd": 23737.29,
+  "vol_h24": 264685.31,
+  "chg_h24": 38.94,
+  "pair_url": "https://dexscreener.com/solana/RTmsLPPy6vJckdZgjFFQMFhZSdn1r7e2AhhKbZHMQjR",
+  "scanned_at": "2026-10-23T00:19:44+00:00"
+ },
+ {
+  "symbol": "BTC",
+  "chain": "solana",
+  "score": 0,
+  "flags": [],
+  "price_usd": 0.0008958,
+  "liq_usd": 85496.17,
+  "vol_h24": 2445682.14,
+  "chg_h24": 1491.0,
+  "pair_url": "https://dexscreener.com/solana/4UPijxPh3AcSHtXzLFHSjbDibZUNnFFYVhzTjpCqDBbH",
+  "scanned_at": "2026-10-23T00:19:44+00:00"
+ },
+ {
+  "symbol": "GATO",
+  "chain": "solana",
+  "score": 0,
+  "flags": [],
+  "price_usd": 0.003719,
+  "liq_usd": 183959.82,
+  "vol_h24": 1357434.45,
+  "chg_h24": 19.73,
+  "pair_url": "https://dexscreener.com/solana/5E3dXLXGwmTDCokA51WYYaKttjFZBwqCoyUHBUi5gt2m",
+  "scanned_at": "2026-10-23T00:19:44+00:00"
  }
 ]
