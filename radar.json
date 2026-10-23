@@ -6,26 +6,12 @@
   "flags": [
    "LOWLIQ_HIGHVOL"
   ],
-  "price_usd": 7.292e-05,
-  "liq_usd": 21653.2,
-  "vol_h24": 202016.68,
-  "chg_h24": 63.61,
+  "price_usd": 0.0001289,
+  "liq_usd": 29628.4,
+  "vol_h24": 361106.8,
+  "chg_h24": 189.0,
   "pair_url": "https://dexscreener.com/solana/5SpztG8hdXCG3YWx7hWjHGHF8CYGNRSWZ1smmfQQkAMX",
-  "scanned_at": "2026-10-23T18:19:41+00:00"
- },
- {
-  "symbol": "CYBERCAT",
-  "chain": "solana",
-  "score": 10,
-  "flags": [
-   "LOWLIQ_HIGHVOL"
-  ],
-  "price_usd": 9.713e-06,
-  "liq_usd": 7035.83,
-  "vol_h24": 392556.81,
-  "chg_h24": -90.01,
-  "pair_url": "https://dexscreener.com/solana/F22JVg2DwbmLyEJhH4CtVdgULASYX3QTp3MrEiytqSP2",
-  "scanned_at": "2026-10-23T18:19:41+00:00"
+  "scanned_at": "2026-10-23T20:19:41+00:00"
  },
  {
   "symbol": "BTC",
@@ -34,12 +20,12 @@
   "flags": [
    "LOWLIQ_HIGHVOL"
   ],
-  "price_usd": 2.397e-06,
-  "liq_usd": 2775.08,
-  "vol_h24": 2967435.26,
-  "chg_h24": -95.74,
+  "price_usd": 2.389e-06,
+  "liq_usd": 2765.51,
+  "vol_h24": 2967435.65,
+  "chg_h24": -95.76,
   "pair_url": "https://dexscreener.com/solana/4UPijxPh3AcSHtXzLFHSjbDibZUNnFFYVhzTjpCqDBbH",
-  "scanned_at": "2026-10-23T18:19:41+00:00"
+  "scanned_at": "2026-10-23T20:19:41+00:00"
  },
  {
   "symbol": "zonki",
@@ -48,26 +34,26 @@
   "flags": [
    "LOWLIQ_HIGHVOL"
   ],
-  "price_usd": 2.512e-06,
-  "liq_usd": 2904.52,
-  "vol_h24": 1586384.3,
-  "chg_h24": -94.3,
+  "price_usd": 2.502e-06,
+  "liq_usd": 2892.34,
+  "vol_h24": 1586387.22,
+  "chg_h24": -94.32,
   "pair_url": "https://dexscreener.com/solana/HQxwqV7ubzdj2fppxVvRoKw8Bykcg5rpJe1Aa1t5npEm",
-  "scanned_at": "2026-10-23T18:19:41+00:00"
+  "scanned_at": "2026-10-23T20:19:41+00:00"
  },
  {
-  "symbol": "BTC",
+  "symbol": "SHADOW",
   "chain": "solana",
   "score": 10,
   "flags": [
    "LOWLIQ_HIGHVOL"
   ],
-  "price_usd": 2.05e-06,
-  "liq_usd": 2183.26,
-  "vol_h24": 697697.33,
-  "chg_h24": -96.37,
-  "pair_url": "https://dexscreener.com/solana/CA5baS1GFCw1C29wo3p5dN27AmVZS1n4dYJh88c9mGEy",
-  "scanned_at": "2026-10-23T18:19:41+00:00"
+  "price_usd": 0.000241,
+  "liq_usd": 42588.49,
+  "vol_h24": 332783.57,
+  "chg_h24": 47.26,
+  "pair_url": "https://dexscreener.com/solana/6isACdSSLWMvhspMGYFfriWv5REYAkdqXxxPSRiDTkHU",
+  "scanned_at": "2026-10-23T20:19:41+00:00"
  },
  {
   "symbol": "TRENCHERS",
@@ -76,59 +62,73 @@
   "flags": [
    "LOWLIQ_HIGHVOL"
   ],
-  "price_usd": 8.375e-05,
-  "liq_usd": 24058.59,
-  "vol_h24": 415475.94,
-  "chg_h24": -4.25,
+  "price_usd": 9.064e-05,
+  "liq_usd": 25060.76,
+  "vol_h24": 408431.34,
+  "chg_h24": 4.84,
   "pair_url": "https://dexscreener.com/solana/RTmsLPPy6vJckdZgjFFQMFhZSdn1r7e2AhhKbZHMQjR",
-  "scanned_at": "2026-10-23T18:19:41+00:00"
+  "scanned_at": "2026-10-23T20:19:41+00:00"
+ },
+ {
+  "symbol": "CTA",
+  "chain": "solana",
+  "score": 10,
+  "flags": [
+   "LOWLIQ_HIGHVOL"
+  ],
+  "price_usd": 7.7e-05,
+  "liq_usd": 22654.89,
+  "vol_h24": 361138.05,
+  "chg_h24": 17.18,
+  "pair_url": "https://dexscreener.com/solana/39MVzJZwKPcaHTkeTa84ycN9aba9mtBex2mKqp93DcFi",
+  "scanned_at": "2026-10-23T20:19:41+00:00"
  },
  {
   "symbol": "ODIE",
   "chain": "solana",
   "score": 0,
   "flags": [],
-  "price_usd": 0.003107,
-  "liq_usd": 166994.57,
-  "vol_h24": 5232624.96,
-  "chg_h24": 5315.0,
+  "price_usd": 0.002335,
+  "liq_usd": 145586.2,
+  "vol_h24": 6260613.46,
+  "chg_h24": 3970.0,
   "pair_url": "https://dexscreener.com/solana/DNm2wASF4PP9XivPucrwm3CV9AnAsuugEgANqUDtLgs",
-  "scanned_at": "2026-10-23T18:19:41+00:00"
+  "scanned_at": "2026-10-23T20:19:41+00:00"
  },
  {
   "symbol": "PHP",
   "chain": "solana",
   "score": 0,
   "flags": [],
-  "price_usd": 0.0002354,
-  "liq_usd": 52063.38,
-  "vol_h24": 1047779.08,
-  "chg_h24": -81.97,
+  "price_usd": 0.0002704,
+  "liq_usd": 55793.2,
+  "vol_h24": 891800.98,
+  "chg_h24": -67.94,
   "pair_url": "https://dexscreener.com/solana/YQ4NNeQxHAtdcB8ohx21eJ9U8eTzxNRvGNHkRaA4Pnw",
-  "scanned_at": "2026-10-23T18:19:41+00:00"
+  "scanned_at": "2026-10-23T20:19:41+00:00"
  },
  {
   "symbol": "GATO",
   "chain": "solana",
   "score": 0,
   "flags": [],
-  "price_usd": 0.003973,
-  "liq_usd": 192324.45,
-  "vol_h24": 1026999.91,
-  "chg_h24": 7.59,
+  "price_usd": 0.003892,
+  "liq_usd": 189680.67,
+  "vol_h24": 995552.54,
+  "chg_h24": -4.7,
   "pair_url": "https://dexscreener.com/solana/5E3dXLXGwmTDCokA51WYYaKttjFZBwqCoyUHBUi5gt2m",
-  "scanned_at": "2026-10-23T18:19:41+00:00"
+  "scanned_at": "2026-10-23T20:19:41+00:00"
  },
  {
   "symbol": "McNugget",
   "chain": "solana",
   "score": 0,
   "flags": [],
-  "price_usd": 0.001029,
-  "liq_usd": 88627.49,
-  "vol_h24": 1092858.93,
-  "chg_h24": 2149.0,
+  "price_usd": 0.0007897,
+  "liq_usd": 77589.18,
+  "vol_h24": 1360973.98,
+  "chg_h24": 1625.0,
   "pair_url": "https://dexscreener.com/solana/D2krLXfaRYqiD8oWT2KUtynnXAUWYPC3GtZFcghqLfjg",
-  "scanned_at": "2026-10-23T18:19:41+00:00"
+  "scanned_at": "2026-10-23T20:19:41+00:00"
  }
 ]
