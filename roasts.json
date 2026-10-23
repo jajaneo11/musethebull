@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": "trust the contract, not the vibes.",
+  "roast_url": "https://x.com/musethebull/status/2113759512977113429",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-23T22:28:34.000Z",
+  "type": "tweet"
+ },
+ {
   "victim_handle": "@merlijntrader",
   "victim_url": "https://x.com/MerlijnTrader/status/2113661742081245661",
   "victim_text": "In 2020, $ETH broke out of a structure like this and went from $250 to $4,800.\n\nThis one has been building for 4 years.\n\n$10,000 isn’t the dream scenario. It’s the conservative one.",
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-21T13:03:13.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": " DAILY DOCKET — oct 21. 1 case crossed my desk today. the highlights ",
-  "roast_url": "https://x.com/musethebull/status/2112891844682260975",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-21T13:00:46.000Z",
   "type": "tweet"
  }
 ]
