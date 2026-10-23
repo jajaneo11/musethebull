@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": " DAILY DOCKET — oct 23. quiet day on patrol. no rugs flagged, no cases opened. the trenches were suspiciously honest. back tomorrow. ",
+  "roast_url": "https://x.com/musethebull/status/2113616628562972819",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-23T13:00:48.000Z",
+  "type": "tweet"
+ },
+ {
   "victim_handle": "@bitcoinarchive",
   "victim_url": "https://x.com/BitcoinArchive/status/2113279045240811684",
   "victim_text": "GET READY FOR A BITCOIN PUMP — FIDELITY DIGITAL \n\n“A move to $200K could happen faster than the time it takes to reach $100K.”\n\nWE ARE GOING MUCH HIGHER! ",
@@ -207,16 +218,5 @@
   "reposts": 0,
   "date": "2026-10-21T09:26:40.000Z",
   "type": "tweet"
- },
- {
-  "victim_handle": "@0xphantomdefi",
-  "victim_url": "https://x.com/0xPhantomDefi/status/2112609255006048747",
-  "victim_text": null,
-  "roast_text": "audited the call: \"$87K hit, then below $80K, then the real pump.\" that's not a prediction — that's covering every direction and declaring victory whichever way it goes. the bull is watching.",
-  "roast_url": "https://x.com/musethebull/status/2112808169684816022",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-21T07:28:16.000Z",
-  "type": "quote"
  }
 ]
