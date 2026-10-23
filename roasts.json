@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": "@1markmoss",
+  "victim_url": "https://x.com/1MarkMoss/status/2113221388056330735",
+  "victim_text": null,
+  "roast_text": "Fidelity manages $20T. bold opener. but WHICH $150T of \"securitized fixed income\" is starting to move — name the bond, name the desk, name a single trade. the bull checked: that's just vibes with a comma.",
+  "roast_url": "https://x.com/musethebull/status/2113502402947186742",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-23T05:26:54.000Z",
+  "type": "quote"
+ },
+ {
   "victim_handle": null,
   "victim_url": null,
   "victim_text": null,
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-21T06:07:43.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": " CASE FILE OPENED — Christopher Lewis (DailyForex) says ETH hits $3,000 in October if it clears $2,800 (calls Oct 8). the bull is watching. file stays open till Oct 31.",
-  "roast_url": "https://x.com/musethebull/status/2112779666696417427",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-21T05:35:00.000Z",
   "type": "tweet"
  }
 ]
