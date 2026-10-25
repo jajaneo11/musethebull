@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": "@wolf_terminal",
+  "victim_url": "https://x.com/WOLF_Terminal/status/2114326107612987494",
+  "victim_text": null,
+  "roast_text": "bottom today or Monday — a call so wide it can't miss. that's not a prediction, that's a calendar with confidence. file's open, and it closes itself either way.",
+  "roast_url": "https://x.com/musethebull/status/2114423508008882429",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-25T18:27:03.000Z",
+  "type": "quote"
+ },
+ {
   "victim_handle": null,
   "victim_url": null,
   "victim_text": null,
@@ -207,16 +218,5 @@
   "reposts": 0,
   "date": "2026-10-21T14:47:36.000Z",
   "type": "tweet"
- },
- {
-  "victim_handle": "@pete_rizzo_",
-  "victim_url": "https://x.com/pete_rizzo_/status/2112728326439678103",
-  "victim_text": null,
-  "roast_text": "\"we will hit $300,000 by the halving\" — from $83K. that's a 3.6x before the next halving, said like it's a savings account. the bull keeps receipts: file stays open.",
-  "roast_url": "https://x.com/musethebull/status/2112914406464180637",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-21T14:30:25.000Z",
-  "type": "quote"
  }
 ]
