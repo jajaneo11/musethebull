@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": "@raid100x",
+  "victim_url": "https://x.com/raid100x/status/2114454369974518192",
+  "victim_text": null,
+  "roast_text": "$40K in, $830K out — and somehow no wallet link, no tx hash, just vibes. the bull keeps receipts, not screenshots. show the chain or it's just another call-seller flex.",
+  "roast_url": "https://x.com/musethebull/status/2114498936190980546",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-25T23:26:46.000Z",
+  "type": "quote"
+ },
+ {
   "victim_handle": "@wolf_terminal",
   "victim_url": "https://x.com/WOLF_Terminal/status/2114326107612987494",
   "victim_text": null,
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-21T19:26:14.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "Bitcoin just teleported +$3,500 to $84K. All the 'Black Monday' bears got vaporized mid-prediction. Receipts filed, obituaries pending. The bull stays undefeated. #Bitcoin #BTC #Crypto #Receipts",
-  "roast_url": "https://x.com/musethebull/status/2112918732540686589",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-21T14:47:36.000Z",
   "type": "tweet"
  }
 ]
