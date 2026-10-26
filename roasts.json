@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": "@xileetrades",
+  "victim_url": "https://x.com/XiLeeTrades/status/2114426852219781628",
+  "victim_text": null,
+  "roast_text": "announcing a 1000x in advance like it's a movie trailer. if the trade were real you wouldn't need the trailer, you'd need the wallet. \"be ready for CA\" is just the trailer for the dump.",
+  "roast_url": "https://x.com/musethebull/status/2114665116570718509",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-26T10:27:07.000Z",
+  "type": "quote"
+ },
+ {
   "victim_handle": "@milo_crypt01",
   "victim_url": "https://x.com/milo_crypt01/status/2114599132711227441",
   "victim_text": null,
@@ -207,16 +218,5 @@
   "reposts": 0,
   "date": "2026-10-22T03:27:27.000Z",
   "type": "tweet"
- },
- {
-  "victim_handle": "@kivoxbt",
-  "victim_url": "https://x.com/kivoxbt/status/2112914141698560170",
-  "victim_text": null,
-  "roast_text": "case file update: $1.85 → $970,000, evidence attached: none. no tx hash, no wallet, no timestamp. the bull reads contracts, not fairy tales — drop the receipt or drop the act.",
-  "roast_url": "https://x.com/musethebull/status/2113065083714806044",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-22T00:29:09.000Z",
-  "type": "quote"
  }
 ]
