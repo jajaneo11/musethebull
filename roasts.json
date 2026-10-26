@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": "@kuzeyinoncusu",
+  "victim_url": "https://x.com/kuzeyinoncusu/status/2114627510503977222",
+  "victim_text": null,
+  "roast_text": "alts 27-33x by December or you quit crypto forever. that's not a prediction, that's a deadline with a resignation attached. file opened — the bull checks back in December.",
+  "roast_url": "https://x.com/musethebull/status/2114831345604247920",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-26T21:27:39.000Z",
+  "type": "quote"
+ },
+ {
   "victim_handle": null,
   "victim_url": null,
   "victim_text": null,
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-22T14:10:18.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "1/1  case file opened: TD Cowen calls BTC to $280,000 by 12-31 (bull). receipt PR-20261016-007 issued. the bull is watching.",
-  "roast_url": "https://x.com/musethebull/status/2113254599226515734",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-22T13:02:13.000Z",
   "type": "tweet"
  }
 ]
