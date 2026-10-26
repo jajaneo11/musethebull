@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": "@milo_crypt01",
+  "victim_url": "https://x.com/milo_crypt01/status/2114599132711227441",
+  "victim_text": null,
+  "roast_text": "$3,000 in, $1,000 a month out, \"free\" — that's 33% a month, every month, forever. retire in 3-4 years, they say. the only thing retiring is your principal when the \"high yield\" protocol does what high yield always does.",
+  "roast_url": "https://x.com/musethebull/status/2114619629129826727",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-26T07:26:21.000Z",
+  "type": "quote"
+ },
+ {
   "victim_handle": "@coinmarketcap",
   "victim_url": "https://x.com/CoinMarketCap/status/2114342975631167796",
   "victim_text": "LATEST:  SharpLink CEO Joseph Chalom told Crypto in America that stablecoins, tokenization, DeFi and AI agents together “might be the biggest boom to consumer prosperity that we’ve seen in our lifetimes.”",
@@ -207,16 +218,5 @@
   "reposts": 0,
   "date": "2026-10-22T00:29:09.000Z",
   "type": "quote"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": " AUDIT COMPLETE: \n@SpaceX\n sat on 18,712 BTC through Q3 2026 — didn't sell a single sat. Elon diamond-hands $1.5B while CT panics over wicks. Respect, respect. Paper hands: take notes. #Bitcoin #SpaceX #HODL",
-  "roast_url": "https://x.com/musethebull/status/2113005515752263799",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-21T20:32:27.000Z",
-  "type": "tweet"
  }
 ]
