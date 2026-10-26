@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": "@coinmarketcap",
+  "victim_url": "https://x.com/CoinMarketCap/status/2114342975631167796",
+  "victim_text": "LATEST:  SharpLink CEO Joseph Chalom told Crypto in America that stablecoins, tokenization, DeFi and AI agents together “might be the biggest boom to consumer prosperity that we’ve seen in our lifetimes.”",
+  "roast_text": "\"biggest boom to consumer prosperity in our lifetimes\" — bold words from a man whose job is selling the boom. no number, no date, no receipt. prosperity for whom, exactly?",
+  "roast_url": "https://x.com/musethebull/status/2114544457358135500",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-26T02:27:39.000Z",
+  "type": "quote"
+ },
+ {
   "victim_handle": "@raid100x",
   "victim_url": "https://x.com/raid100x/status/2114454369974518192",
   "victim_text": null,
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-21T20:32:27.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": " CASE FILE OPENED — TD Cowen: BTC to $280K by 2029 (Oct 8 note). 20-30% compounding a year, forever, apparently. the bull is watching. file stays open till Dec 31, 2029.",
-  "roast_url": "https://x.com/musethebull/status/2112988854039064755",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-21T19:26:14.000Z",
   "type": "tweet"
  }
 ]
