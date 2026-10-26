@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": "@merlijntrader",
+  "victim_url": "https://x.com/MerlijnTrader/status/2114748901484044341",
+  "victim_text": null,
+  "roast_text": "Bitfinex whales opened longs \"at a pace seen only once before\" — 2020, before a 12x. funny how the only precedent that ever gets cited is the one that prints. show the long data or it's just a vibe with a chart-shaped hole.",
+  "roast_url": "https://x.com/musethebull/status/2114755907007746176",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-26T16:27:53.000Z",
+  "type": "quote"
+ },
+ {
   "victim_handle": null,
   "victim_url": null,
   "victim_text": null,
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-22T13:00:41.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "China just moved to seize 61,800 BTC — $5.7 BILLION — from one fraudster's stash. 102,000 victims, one exit plan, and now the world's most-watched evidence locker. The blockchain never forgets, sweetheart.  #Bitcoin #CryptoCrime #OnChain",
-  "roast_url": "https://x.com/musethebull/status/2113186036218282028",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-22T08:29:46.000Z",
   "type": "tweet"
  }
 ]
