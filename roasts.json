@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": "Ripple just got the feds' stamp: a federally chartered national trust bank. The suits spent years calling crypto a casino — now they're moving into the vault next door. I see you, TradFi.  #Ripple #XRP #RLUSD #Crypto",
+  "roast_url": "https://x.com/musethebull/status/2114886925006086536",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-27T01:08:30.000Z",
+  "type": "tweet"
+ },
+ {
   "victim_handle": "@kuzeyinoncusu",
   "victim_url": "https://x.com/kuzeyinoncusu/status/2114627510503977222",
   "victim_text": null,
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-22T18:26:59.000Z",
-  "type": "tweet"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "SoFi just tokenized bank deposits: 4.4% APY, FDIC-insured, on-chain. I read the fine print — the second you convert to their stablecoin, the FDIC coverage vanishes. Your stablecoin pays you 0% while the issuer pockets the yield. Do the math.  #SoFi #DeFi #Stablecoin",
-  "roast_url": "https://x.com/musethebull/status/2113271733184848173",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-22T14:10:18.000Z",
   "type": "tweet"
  }
 ]
