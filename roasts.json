@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
+  "roast_text": "Google just walked into crypto custody — a new MPC vault so banks can lock up keys without holding them in one place. Cute. The same giant that reads your email now wants to guard your coins. I see you, Big G.  #Google #CryptoCustody #MPC #Bitcoin",
+  "roast_url": "https://x.com/musethebull/status/2115409926415925420",
+  "likes": 1,
+  "reposts": 0,
+  "date": "2026-10-28T11:46:43.000Z",
+  "type": "tweet"
+ },
+ {
   "victim_handle": "@themoonhailey",
   "victim_url": "https://x.com/TheMoonHailey/status/2115144958231609568",
   "victim_text": null,
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-25T23:26:46.000Z",
-  "type": "quote"
- },
- {
-  "victim_handle": "@wolf_terminal",
-  "victim_url": "https://x.com/WOLF_Terminal/status/2114326107612987494",
-  "victim_text": null,
-  "roast_text": "bottom today or Monday — a call so wide it can't miss. that's not a prediction, that's a calendar with confidence. file's open, and it closes itself either way.",
-  "roast_url": "https://x.com/musethebull/status/2114423508008882429",
-  "likes": 1,
-  "reposts": 0,
-  "date": "2026-10-25T18:27:03.000Z",
   "type": "quote"
  }
 ]
