@@ -1,31 +1,17 @@
 [
  {
-  "symbol": "ECLYRA",
-  "chain": "base",
-  "score": 20,
-  "flags": [
-   "LP_UNLOCKED_WHALE"
-  ],
-  "price_usd": 7.074e-08,
-  "liq_usd": 6687.55,
-  "vol_h24": 4746.84,
-  "chg_h24": 24.98,
-  "pair_url": "https://dexscreener.com/base/0xB0f45CD53f8ad5Fd1d850a1854C5302a0Ca7fb54",
-  "scanned_at": "2026-10-28T06:19:44+00:00"
- },
- {
   "symbol": "FRONGUS",
   "chain": "solana",
   "score": 10,
   "flags": [
    "LOWLIQ_HIGHVOL"
   ],
-  "price_usd": 3.217e-06,
-  "liq_usd": 3623.0,
-  "vol_h24": 2923801.89,
-  "chg_h24": -94.23,
+  "price_usd": 3.282e-06,
+  "liq_usd": 3675.23,
+  "vol_h24": 2924586.0,
+  "chg_h24": -94.11,
   "pair_url": "https://dexscreener.com/solana/2MQY9wfM2vttdKvRKV9k9Ma7z988AdxqmUAYKCeHgAcT",
-  "scanned_at": "2026-10-28T06:19:44+00:00"
+  "scanned_at": "2026-10-28T08:19:42+00:00"
  },
  {
   "symbol": "TRUMP2028",
@@ -34,12 +20,12 @@
   "flags": [
    "LOWLIQ_HIGHVOL"
   ],
-  "price_usd": 3.012e-06,
-  "liq_usd": 3740.46,
-  "vol_h24": 2593406.36,
-  "chg_h24": -99.77,
+  "price_usd": 3.004e-06,
+  "liq_usd": 3733.93,
+  "vol_h24": 2279688.61,
+  "chg_h24": -99.64,
   "pair_url": "https://dexscreener.com/solana/7yvfSJJzHeGgZ3c4QqutXn8ZBCH3DaZfkc6nTxCPUYVd",
-  "scanned_at": "2026-10-28T06:19:44+00:00"
+  "scanned_at": "2026-10-28T08:19:42+00:00"
  },
  {
   "symbol": "RTC ",
@@ -48,12 +34,12 @@
   "flags": [
    "LOWLIQ_HIGHVOL"
   ],
-  "price_usd": 3.54e-05,
-  "liq_usd": 14805.55,
-  "vol_h24": 88414.52,
-  "chg_h24": -18.64,
+  "price_usd": 3.549e-05,
+  "liq_usd": 14847.08,
+  "vol_h24": 88473.21,
+  "chg_h24": -18.43,
   "pair_url": "https://dexscreener.com/solana/EH2iDJBC2PcKqps9cVPYpqizGVF3iukPxctMuLk3PMFV",
-  "scanned_at": "2026-10-28T06:19:44+00:00"
+  "scanned_at": "2026-10-28T08:19:42+00:00"
  },
  {
   "symbol": "SI",
@@ -62,73 +48,85 @@
   "flags": [
    "LOWLIQ_HIGHVOL"
   ],
-  "price_usd": 0.000204,
-  "liq_usd": 40699.17,
-  "vol_h24": 3262424.12,
-  "chg_h24": 272.0,
+  "price_usd": 0.000258,
+  "liq_usd": 46481.34,
+  "vol_h24": 3461487.26,
+  "chg_h24": 370.0,
   "pair_url": "https://dexscreener.com/solana/3KgVPft91E1E3YedModfn1gwcLDSMErFDFhLGHa65LCj",
-  "scanned_at": "2026-10-28T06:19:44+00:00"
+  "scanned_at": "2026-10-28T08:19:42+00:00"
  },
  {
-  "symbol": "DOAS",
+  "symbol": "N64",
   "chain": "solana",
   "score": 10,
   "flags": [
    "LOWLIQ_HIGHVOL"
   ],
-  "price_usd": 2.136e-05,
-  "liq_usd": 10796.16,
-  "vol_h24": 484834.61,
-  "chg_h24": -99.91,
-  "pair_url": "https://dexscreener.com/solana/9MGjpsziLD1tJ43xMS98bg3pvyoUX9acLKoBDsn8V8GP",
-  "scanned_at": "2026-10-28T06:19:44+00:00"
+  "price_usd": 9.458e-05,
+  "liq_usd": 25626.86,
+  "vol_h24": 358285.94,
+  "chg_h24": 37.74,
+  "pair_url": "https://dexscreener.com/solana/EWjia2Nk268HowctfiTp8cHQSkeC8Z6aZAhciMkPpXfi",
+  "scanned_at": "2026-10-28T08:19:42+00:00"
  },
  {
   "symbol": "Something",
   "chain": "solana",
   "score": 0,
   "flags": [],
-  "price_usd": 0.001457,
-  "liq_usd": 110225.55,
-  "vol_h24": 3955619.98,
-  "chg_h24": 2726.0,
+  "price_usd": 0.001319,
+  "liq_usd": 105482.93,
+  "vol_h24": 4258148.84,
+  "chg_h24": 2458.0,
   "pair_url": "https://dexscreener.com/solana/FAHXgxDGMw5sfFW77SCHBcT9qiQ2ArrPzo98xJxMf9kk",
-  "scanned_at": "2026-10-28T06:19:44+00:00"
+  "scanned_at": "2026-10-28T08:19:42+00:00"
  },
  {
   "symbol": "REMUS",
   "chain": "solana",
   "score": 0,
   "flags": [],
-  "price_usd": 0.001722,
-  "liq_usd": 133493.42,
-  "vol_h24": 1149077.9,
-  "chg_h24": 10.57,
+  "price_usd": 0.001793,
+  "liq_usd": 136536.2,
+  "vol_h24": 1127943.48,
+  "chg_h24": 30.5,
   "pair_url": "https://dexscreener.com/solana/6JDiSPsWBwcSN8xBa4LNBzMZRikxksbxcto8J3ELR4cG",
-  "scanned_at": "2026-10-28T06:19:44+00:00"
- },
- {
-  "symbol": "GATO",
-  "chain": "solana",
-  "score": 0,
-  "flags": [],
-  "price_usd": 0.004418,
-  "liq_usd": 209059.74,
-  "vol_h24": 962126.4,
-  "chg_h24": 5.48,
-  "pair_url": "https://dexscreener.com/solana/5E3dXLXGwmTDCokA51WYYaKttjFZBwqCoyUHBUi5gt2m",
-  "scanned_at": "2026-10-28T06:19:44+00:00"
+  "scanned_at": "2026-10-28T08:19:42+00:00"
  },
  {
   "symbol": "Rapport",
   "chain": "solana",
   "score": 0,
   "flags": [],
-  "price_usd": 0.0004787,
-  "liq_usd": 59334.15,
-  "vol_h24": 920383.5,
-  "chg_h24": 987.0,
+  "price_usd": 0.0005212,
+  "liq_usd": 63737.44,
+  "vol_h24": 1929847.74,
+  "chg_h24": 1083.0,
   "pair_url": "https://dexscreener.com/solana/55Md1fKr9zze1LmfK2byyEcPd55d5A2FR9Duoi7Pfmw2",
-  "scanned_at": "2026-10-28T06:19:44+00:00"
+  "scanned_at": "2026-10-28T08:19:42+00:00"
+ },
+ {
+  "symbol": "GATO",
+  "chain": "solana",
+  "score": 0,
+  "flags": [],
+  "price_usd": 0.004576,
+  "liq_usd": 213117.72,
+  "vol_h24": 933897.41,
+  "chg_h24": 2.42,
+  "pair_url": "https://dexscreener.com/solana/5E3dXLXGwmTDCokA51WYYaKttjFZBwqCoyUHBUi5gt2m",
+  "scanned_at": "2026-10-28T08:19:42+00:00"
+ },
+ {
+  "symbol": "JOB",
+  "chain": "solana",
+  "score": 0,
+  "flags": [],
+  "price_usd": 0.002114,
+  "liq_usd": 124742.54,
+  "vol_h24": 756344.58,
+  "chg_h24": 4761.0,
+  "pair_url": "https://dexscreener.com/solana/HAUVBmNthCFmG9SRXMvZ1GAXNpU955hkPdSAsC2cx4C8",
+  "scanned_at": "2026-10-28T08:19:42+00:00"
  }
 ]
