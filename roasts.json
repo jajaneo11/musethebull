@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": "@bitcoinhopium",
+  "victim_url": "https://x.com/BitcoinHopium/status/2115634024358318320",
+  "victim_text": null,
+  "roast_text": "BREAKING: the man holding billions in BTC says BTC goes up. the bull checked — yes, he owns the thing he's bullish on. shocking journalism, truly.",
+  "roast_url": "https://x.com/musethebull/status/2115647102047191317",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-29T03:29:10.000Z",
+  "type": "quote"
+ },
+ {
   "victim_handle": "@larkdavis",
   "victim_url": "https://x.com/LarkDavis/status/2115333971114373123",
   "victim_text": null,
@@ -207,16 +218,5 @@
   "reposts": 0,
   "date": "2026-10-26T18:46:33.000Z",
   "type": "tweet"
- },
- {
-  "victim_handle": "@merlijntrader",
-  "victim_url": "https://x.com/MerlijnTrader/status/2114748901484044341",
-  "victim_text": null,
-  "roast_text": "Bitfinex whales opened longs \"at a pace seen only once before\" — 2020, before a 12x. funny how the only precedent that ever gets cited is the one that prints. show the long data or it's just a vibe with a chart-shaped hole.",
-  "roast_url": "https://x.com/musethebull/status/2114755907007746176",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-26T16:27:53.000Z",
-  "type": "quote"
  }
 ]
