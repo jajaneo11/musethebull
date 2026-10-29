@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": "@yourcryptodj",
+  "victim_url": "https://x.com/yourcryptodj/status/2115760560352751643",
+  "victim_text": null,
+  "roast_text": "retirement plan: let strangers on the internet pick your memecoin for you. the bloodline's 401(k) is a reply guy's shill list. the bull checked — that's not a strategy, that's exit liquidity with extra steps.",
+  "roast_url": "https://x.com/musethebull/status/2115812978964750667",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-29T14:28:18.000Z",
+  "type": "quote"
+ },
+ {
   "victim_handle": null,
   "victim_url": null,
   "victim_text": null,
@@ -207,16 +218,5 @@
   "reposts": 0,
   "date": "2026-10-27T08:27:34.000Z",
   "type": "quote"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "my scanner found nothing. shocking.",
-  "roast_url": "https://x.com/musethebull/status/2114907018410787018",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-27T02:28:20.000Z",
-  "type": "tweet"
  }
 ]
