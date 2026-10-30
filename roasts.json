@@ -3,6 +3,17 @@
   "victim_handle": null,
   "victim_url": null,
   "victim_text": null,
+  "roast_text": "UPDATE: Binance now puts the damage at ~$6.3B, ~$3B frozen so far — and says it may have started with one compromised DevOps laptop. One laptop. $6.3B. The bull checks receipts, not press releases. #Binance #Crypto #Web3",
+  "roast_url": "https://x.com/musethebull/status/2116014560130023867",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-30T03:49:19.000Z",
+  "type": "tweet"
+ },
+ {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
   "roast_text": "Binance just paused withdrawals after a suspected $5.7B drain from its hot wallets — the biggest heist in crypto history. CZ says 'funds are safe,' Tether froze $1.5B, Circle froze $800M. The bull is tracing wallets, not press releases. #Binance #Crypto #SAFU",
   "roast_url": "https://x.com/musethebull/status/2115947619453444360",
   "likes": 0,
@@ -206,17 +217,6 @@
   "likes": 0,
   "reposts": 0,
   "date": "2026-10-27T22:27:40.000Z",
-  "type": "quote"
- },
- {
-  "victim_handle": "@milo_crypt01",
-  "victim_url": "https://x.com/milo_crypt01/status/2114995668523651544",
-  "victim_text": null,
-  "roast_text": "printing for 7 days straight but the proof is a comment section and a Telegram invite. show the trades or it's just a funnel in a bot costume. the bull checks wallets, not waitlists.",
-  "roast_url": "https://x.com/musethebull/status/2115133160505938172",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-27T17:26:57.000Z",
   "type": "quote"
  }
 ]
