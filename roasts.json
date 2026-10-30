@@ -3,6 +3,17 @@
   "victim_handle": null,
   "victim_url": null,
   "victim_text": null,
+  "roast_text": "partnership (n.): a jpeg.",
+  "roast_url": "https://x.com/musethebull/status/2116220580412449108",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-30T17:27:58.000Z",
+  "type": "tweet"
+ },
+ {
+  "victim_handle": null,
+  "victim_url": null,
+  "victim_text": null,
   "roast_text": " DAILY DOCKET — oct 30. quiet day on patrol. no rugs flagged, no cases opened. the trenches were suspiciously honest. back tomorrow. ",
   "roast_url": "https://x.com/musethebull/status/2116153328770113569",
   "likes": 0,
@@ -207,16 +218,5 @@
   "reposts": 0,
   "date": "2026-10-28T07:28:16.000Z",
   "type": "quote"
- },
- {
-  "victim_handle": null,
-  "victim_url": null,
-  "victim_text": null,
-  "roast_text": "the top called, it wants its bagholders back.",
-  "roast_url": "https://x.com/musethebull/status/2115284129545850954",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-28T03:26:51.000Z",
-  "type": "tweet"
  }
 ]
