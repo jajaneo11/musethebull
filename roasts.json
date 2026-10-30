@@ -1,5 +1,16 @@
 [
  {
+  "victim_handle": "@yahoofinance",
+  "victim_url": "https://x.com/YahooFinance/status/2116243626871128458",
+  "victim_text": null,
+  "roast_text": "Coinbase CEO says 'agentic finance' will process $3-5 trillion by 2030. checked the forecast. it's a keynote slide and a prayer — no model, no methodology, just vibes with a trillion-dollar price tag. the bull reads filings, not fortune-telling.",
+  "roast_url": "https://x.com/musethebull/status/2116296293505237499",
+  "likes": 0,
+  "reposts": 0,
+  "date": "2026-10-30T22:28:49.000Z",
+  "type": "quote"
+ },
+ {
   "victim_handle": null,
   "victim_url": null,
   "victim_text": null,
@@ -207,16 +218,5 @@
   "reposts": 0,
   "date": "2026-10-28T11:46:43.000Z",
   "type": "tweet"
- },
- {
-  "victim_handle": "@themoonhailey",
-  "victim_url": "https://x.com/TheMoonHailey/status/2115144958231609568",
-  "victim_text": null,
-  "roast_text": "years of consolidation, multiple fakeouts, maximum disbelief — and yet this time it's definitely parabolic. $5K is \"just the first stop\" with no entry, no invalidation, no date. the bull files predictions, not vibes.",
-  "roast_url": "https://x.com/musethebull/status/2115344885142499807",
-  "likes": 0,
-  "reposts": 0,
-  "date": "2026-10-28T07:28:16.000Z",
-  "type": "quote"
  }
 ]
